@@ -10,9 +10,7 @@
 ## Domain
 
 <!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+     My domain is public student-generated advice about MIT Course 6 / CS course selection, workload, and survival. This knowledge is hard to find because official MIT pages describe requirements and course content, but they do not fully capture how students actually experience classes: which ones feel useful, which ones are difficult,  and what advice students give beginners. I will collect public MIT Admissions student blogs and public r/mit threads so the system can answer practical Course 6 questions using cited, inspectable sources.
 
 ---
 
@@ -24,16 +22,22 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Mit Admissions Website | Blog |https://mitadmissions.org/blogs/entry/every-class-ive-ever-taken/?utm_source=chatgpt.com
+|
+| 2 | Mit Admissions Website | Blog | https://mitadmissions.org/blogs/entry/how-i-chose-my-classes/?utm_source=chatgpt.com
+|
+| 3 | Mit Admissions Website |  Blog |https://mitadmissions.org/blogs/entry/6-3/?utm_source=chatgpt.com
+ |
+| 4 | Mit Admissions Website |  Blog | https://mitadmissions.org/blogs/entry/classes-im-taking-this-semester/?utm_source=chatgpt.com
+|
+| 5 | Mit Admissions Website |  Blog |https://mitadmissions.org/blogs/entry/curseroad/?utm_source=chatgpt.com |
+| 6 | Mit Admissions Website |  Blog |https://mitadmissions.org/blogs/entry/a-not-at-all-comprehensive-guide-to-your-first-year/?utm_source=chatgpt.com |
+| 7 | Reddit |  Forum |https://www.reddit.com/r/mit/comments/10gk3zf/the_workload_for_computer_science_students/?utm_source=chatgpt.com
+ |
+| 8 | Reddit | Forum | https://www.reddit.com/r/mit/comments/tya6z4/which_course6_classes_arewere_the_most_and_least/?utm_source=chatgpt.com
+|
+| 9 | Mit Admissions Website |Blog |https://mitadmissions.org/blogs/entry/pursuing-cs-as-a-near-beginner/?utm_source=chatgpt.com|
+| 10 | Reddit | Forum | https://www.reddit.com/r/mit/comments/1n1yna8/61210_wo_61200/?utm_source=chatgpt.com |
 
 ---
 
