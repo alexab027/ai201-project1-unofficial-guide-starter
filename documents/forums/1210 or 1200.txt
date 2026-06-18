@@ -1,0 +1,43 @@
+TITLE: 6.1210 w/o 6.1200
+SOURCE: https://www.reddit.com/r/mit/comments/1f3u5xk/61210_wo_61200/
+
+POST:
+Current frosh here, night before registration. Have had upperclassmen tell me to skip 6.1200 and take 6.1210 on PNR, claiming that 6.1200 isn't a particularly useful prereq. AIME-level competition math experience, no previous proof/discrete experience. Not USACO.
+
+Any thoughts on this dilemma?
+
+COMMENT:
+I took 1200 and 1210 at the same time three semesters ago. No comp math experience and it was not really a problem. I think 1200 is useful background and trains you for 1210 thinking but is not strictly necessary.
+
+That being said, I wouldn’t really recommend going out of your way to skip it unless you have a particular reason. For me it’s because I didn’t do 1200 my first sem and needed to do 1210 in spring for scheduling reasons, so I just did them both.
+
+COMMENT:
+There’s no harm trying!
+
+REPLY:
+Can always drop if u dont feel comfortable.
+
+COMMENT:
+It's not about what people say is right to do, it's about what you feel like you're ready for. Trust your gut. If you were like 7+ on AIME you're probably fine. Otherwise, I would just take it later.
+
+COMMENT:
+Upperclass students telling you to speedrun MIT by skipping classes and/or gaming the PNR system to get credit for a class without really learning any more than the dead minimum needed to pass are wrong nearly 100% of the time, despite it being pretty common advice.
+
+COMMENT:
+Yes I skipped 1200 and took 1210 and did well, but discrete math appears everywhere in CS classes and I ended up going back to take 1200 in senior year.
+
+COMMENT:
+Terrible idea and terrible logic.
+
+PNR is there, and has always been there, so new freshman can acclimate to the MIT pace. Not trying to scare you, your AIME skills are nothing compared to what you’re about to experience.
+
+This whole thinking of loading up on hard classes freshman year is half-baked. The point of college is to learn the material in a coherent way. You’re not trying to take all your junior and senior classes and do them freshman year so you can screw them up and ink out a barely passing grade.
+
+I took the old version of 1200, loved the class, and cannot imagine taking 1210 without it. I even took a class like 1200 in high school and 1200 was like 8 times as hard.
+
+PNR is there as a safety net so you can rewire your discipline and study habits for a new normal. Don’t play these dumb “hard class scheduling” games. Take all classes and in the order they should be taken. It’ll be hard enough when you do that, so don’t make it harder on yourself.
+
+Welcome and best of luck!
+
+COMMENT:
+I know registration has already taken place, but as an undergraduate associate advisor the main thing I'd worry about is lack of previous proof experience. You should have all the necessary background for any course you decide to try, even if you're genuinely interested in it. That being said, you might want to review what topics are covered in both courses; if I recall correctly it's mainly algorithmic complexity and proofs that carry over between the two classes. If you're having any trouble or further concerns, feel free to email the professor(s) and your advisor/associate advisor.

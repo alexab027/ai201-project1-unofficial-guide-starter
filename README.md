@@ -51,13 +51,13 @@
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
-
+I chunked each document into groups of 4 sentences. I chose sentence-based chunks instead of word-based or character-based chunks because the documents are mostly blog posts and Reddit comments, where complete sentences are important for preserving meaning. This also prevents chunks from ending in the middle of a sentence.
 **Overlap:**
-
+I used a 1-sentence overlap between consecutive chunks. For example, one chunk contains sentences 1–4, and the next chunk contains sentences 4–7. This overlap helps preserve context between chunks without making the chunks too repetitive or too large
 **Why these choices fit your documents:**
-
+The source documents are mostly MIT Admissions blog posts and Reddit forum discussions. Blog sections often contain several connected paragraphs, while Reddit comments are shorter and more conversational. Four-sentence chunks are long enough to contain a complete idea, but short enough to stay focused on one topic. Because the documents discuss classes, workload, advice, and student experiences, sentence-based chunking makes each chunk easier to retrieve and cite as standalone evidence.
 **Final chunk count:**
-
+338
 ---
 
 ## Sample Chunks
@@ -65,14 +65,41 @@
 <!-- Paste 5 representative chunks from your document collection after running your ingestion pipeline.
      For each chunk, note which source document it came from.
      These must be actual text — not screenshots. -->
+ CHUNK 1
+[blog | 6-3 | Introduction]
+Word count: 74
 
-| # | Source document | Chunk text |
-|---|----------------|------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+It’s no secret that Course 6-3 (Computer Science) is one of the most, if not the most popular major at MIT. According to the Registrar, there were 757 undergraduate students alone enrolled in Course 6-3 for the Fall 2017 term. That’s roughly a fifth of the undergrad population that declared a major. So it’s not just a meme when people say that if you had to guess what course someone was, it’s probably 6-3.
+
+================================================================================
+CHUNK 2
+[blog | A (Not At All) Comprehensive Guide to Your First Year | GIRs, Major Requirements, Discovery Classes: Choosing Classes]
+Word count: 55
+
+You should have a list of at least 3 CI-Hs you’re interested in. CI-Hs are notoriously difficult to get into, especially the popular ones like 24.900, CMS.100, and 21M.030. As a result, you should always have backups because it’s not guaranteed you’ll get into your top choice CI-H. Look into registering for a PE class.
+
+================================================================================
+CHUNK 3
+[blog | A (Not At All) Comprehensive Guide to Your First Year | Miscellaneous Things]
+Word count: 50
+
+If there’s any place to do it, it’s here at MIT, where diving headfirst into something scary and unknown is not only encouraged, but expected. There will be people to catch you if you fall. Mistakes are welcome. You’re bound to mess up a couple times here at this school.
+
+================================================================================
+CHUNK 4
+[blog | Curseroad | 18-Wheeler Truck Roadmap]
+Word count: 17
+
+Junior Spring: 4.024, 4.440, 8.04. Total Units: 48. Hours Per Week: 52.9. Senior Fall: 4.025, 8.13, 8.05.
+
+================================================================================
+CHUNK 5
+[blog | How I chose my classes | How Useful Is It?]
+Word count: 82
+
+“Usefulness” is a somewhat nebulous concept. Sure, a class is certainly useful if it helps me pass a job interview or teaches me how to use a specific tool in my research, but its usefulness can extend far beyond these “hard” skills. For example, 6.2060 (Microcomputer Project Laboratory) is a class that, at first glance, doesn’t seem very useful at all. The lab assignments all involve programming an obsolete Intel 8051 microprocessor to perform seemingly mundane tasks like striking a fluorescent lamp.    
+
+
 
 ---
 

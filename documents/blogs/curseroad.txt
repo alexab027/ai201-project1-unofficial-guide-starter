@@ -1,0 +1,204 @@
+TITLE: Curseroad
+SOURCE: https://mitadmissions.org/blogs/entry/curseroad/
+
+## Introduction
+
+Choosing classes at MIT is like filling up a skill tree in a video game. Each class taken unlocks branches of other exciting classes, and there are always tons of great options to choose from. But sometimes, there are too many great options; with over 300 classes in Course 6 alone, it can be a bit overwhelming trying to construct a roadmap of interesting and highly-rated classes while still hitting all the requirements.
+
+That’s why we have CourseRoad – a website for planning what classes to take at MIT! CourseRoad is an invaluable tool for MIT students – it has information about the requirements for each major, when classes are offered, and even the average number of hours for each class based on course evaluations.
+
+It’s also a really fun video game! Kind of. While it’s not explicitly designed as such, I like to use CourseRoad as a quasi-MIT simulator where I test the limits of how one can graduate from MIT. Perfect for answering questions like:
+
+Is it possible to graduate without ever writing a final exam? Yes.
+
+Is it possible to have a 48-unit schedule that averages over 100 hours per week? Yes – by taking 2.009, 4.153, and 6.2220 together.
+
+Will I graduate? Yes… hopefully.
+
+Most of the resulting roadmaps are rather questionable, to say the least. Many of them probably wouldn’t work in real life. But nevertheless, it’s amazing to see all the different ways you could theoretically graduate from MIT.
+
+Theoretically.
+
+## The Rules of the Game
+
+CourseRoad doesn’t really impose any restrictions on your planned roadmap. Want to schedule 200 classes in your sophomore fall so you can graduate in three semesters with every major? Sure thing – CourseRoad has no objections to that.
+
+So, to keep it somewhat realistic and more challenging, here are some rules I try to impose on myself when creating cursed roadmaps:
+
+Only include advanced standing exams, or ASEs, when absolutely necessary. ASEs are basically a way to test out of some classes like general institute requirements, or GIRs. Most people don’t learn college-level differential equations or quantum mechanics in high school, so I try not to include any ASEs if possible. But when I do include them, I include all of them.
+
+Cap the number of units per semester at 54. Most classes at MIT are 12 units, so this cap corresponds to four and a half classes per semester, which is usually a reasonable workload.
+
+Satisfy all prerequisites for each taken class. This keeps the progression of classes more realistic.
+
+Other than these few restrictions, everything else is fair game. I count majors as “complete” when CourseRoad marks them as such; although this is an oversimplification because of rules around double counting classes and such, it’s good enough for my purposes.
+
+Without further ado, here are five cursed roadmaps I’ve created this year.
+
+## Course 6n’t
+
+For better or worse, my own MIT degree audit is the inspiration behind this first roadmap. The old 6-2, Electrical Engineering and Computer Science, major is known for being super flexible because of the breadth of disciplines that EECS encompasses. For example, you could major in 6-2 and graduate without taking any circuits-related classes.
+
+But just how flexible is it? What’s the minimum number of Course 6 classes you’d need to take to major in 6-2 and get an MEng?
+
+According to CourseRoad, six out of 35 total classes.
+
+## Course 6n’t Roadmap
+
+Freshman Fall: 18.01, 3.091, 8.01, 14.73, 6.100A. Total Units: 54. Hours Per Week: 49.3.
+
+Freshman Spring: 18.02, 7.013, 8.02, 21L.019. Total Units: 48. Hours Per Week: 37.0.
+
+Sophomore Fall: 18.03, 18.06, 18.062, 21M.051. Total Units: 48. Hours Per Week: 37.0.
+
+Sophomore Spring: 3.155, 2.S007, 6.1210, 21M.301. Total Units: 48. Hours Per Week: 47.6.
+
+Junior Fall: 18.600, 6.2000, 6.3800, 21M.385. Total Units: 48. Hours Per Week: 41.9.
+
+Junior Spring: 18.400, 18.410, 20.370, 14.15. Total Units: 48. Hours Per Week: 42.5.
+
+Senior Fall: 20.305, 3.096, 15.093, 18.435. Total Units: 45. Hours Per Week: 37.9.
+
+Senior Spring: 20.129, 3.095, 6.THM. Total Units: 21. Hours Per Week: 24.9.
+
+Fifth Year Fall: 16.37, 3.43, 6.THM. Total Units: 24. Hours Per Week: 26.5.
+
+Wait, how is this even possible? And what’s with all the biology/math classes? A few things are going on that make this roadmap possible.
+
+I exploit the fact that some math classes like 18.03 and 18.06, both from Course 18, count toward majors across multiple departments. After all, most things in engineering are just mathematics under the hood.
+
+Also, the way I counted classes is a bit misleading. Most of the remaining classes I’ve included are “joint subjects” between departments, where a single class is offered under two different numbers. So something like Micro/Nano Processing Technology would be both 3.155 in Course 3 and 6.2600 in Course 6.
+
+To be clear, I don’t think this degree of flexibility is necessarily bad, even if it can lead to questionable roadmaps like this one. If anything, it shows just how applicable EECS is to everything.
+
+## I Am Speed
+
+How long does it take to graduate from MIT? Usually, people take four years; some manage to do it in three. CourseRoad says it’s doable in a year and a half if you major in 8-FLEX, Physics Flexible Track.
+
+## I Am Speed Roadmap
+
+Prior Credit: All the ASEs. Total Units: 150. Hours Per Week: N/A.
+
+Freshman Fall: 8.05, 6.1010, 6.3000, 21M.051, 21M.426. Total Units: 54. Hours Per Week: 49.5.
+
+Freshman IAP: 8.223, 21M.151. Total Units: 12. Hours Per Week: 22.5.
+
+Freshman Spring: 8.044, 8.06, STS.042, 21M.011, 21M.426. Total Units: 54. Hours Per Week: 48.6.
+
+Sophomore Fall: 8.231, 6.3020, 14.73, 21M.301, 21M.426. Total Units: 54. Hours Per Week: 42.2.
+
+I had to go to pretty extreme lengths to make this roadmap possible.
+
+I included all thirteen available ASEs because the list included three required classes: 18.03, 8.03, and 8.04.
+
+I double counted a lot of requirements. 8-FLEX requires a three-subject concentration that I satisfied using music technology classes, which also count toward the general institute requirements, or GIRs.
+
+Not all classes in this roadmap are offered regularly. For example, STS.042 is only offered once every two years.
+
+But despite, or rather because of, these aggressive optimizations, following this roadmap won’t actually allow you to graduate in a year and a half. Although CourseRoad is pretty thorough, it leaves out a few important details of MIT’s graduation requirements.
+
+You need at least 180 units beyond GIRs to graduate, but this roadmap only has 108 units beyond GIRs. It’s hard to accrue so many units from only three semesters at MIT, although I suppose you could theoretically use humanities/arts/social sciences transfer credit to compensate for that.
+
+You can only count three HASS subjects from your primary major toward the GIRs, but this roadmap uses four.
+
+Nevertheless, I was surprised that I could cram so much stuff into just three semesters.
+
+## 18-Wheeler Truck
+
+At MIT, most classes count for 12 units of academic credit, with each unit corresponding roughly to one hour of work per week. A few classes count for 18 or more units, but those are usually advanced elective subjects that demand well over 18 hours of work per week.
+
+Because of the intimidating nature of such classes, Course 8 and Course 4 are rather infamous for not only offering but requiring 18- and 24-unit classes for their majors respectively. Course 8 has 8.13 and 8.14, while Course 4 has 4.023, 4.024, and 4.025, with 4.025 averaging 43.5 hours per week. Although I must say that these classes sound much scarier than they actually are – all the Course 4s I’ve spoken to seem to enjoy the Architecture Design Studio classes.
+
+With that, here’s a roadmap of a double major in 8, Physics Focused Track, and 4, Architecture, that takes all five of those classes.
+
+## 18-Wheeler Truck Roadmap
+
+Freshman Fall: 18.01, 8.01, 5.111, 4.053, 21M.526. Total Units: 54. Hours Per Week: 50.0.
+
+Freshman IAP: 4.02A. Total Units: 9. Hours Per Week: 33.3.
+
+Freshman Spring: 18.02, 8.02, 7.013, 4.605, 21M.426. Total Units: 54. Hours Per Week: 50.2.
+
+Sophomore Fall: 18.03, 4.401, 4.500, 8.03, 21M.426. Total Units: 54. Hours Per Week: 50.2.
+
+Sophomore IAP: 8.223, 18.095. Total Units: 12. Hours Per Week: 26.8.
+
+Sophomore Spring: 4.022, 4.302, 8.044, 24.900, 21M.426. Total Units: 54. Hours Per Week: 51.8.
+
+Junior Fall: 4.023, 8.033, 4.603. Total Units: 48. Hours Per Week: 53.3.
+
+Junior Spring: 4.024, 4.440, 8.04. Total Units: 48. Hours Per Week: 52.9.
+
+Senior Fall: 4.025, 8.13, 8.05. Total Units: 54. Hours Per Week: 77.1.
+
+Senior IAP: 8.08. Total Units: 12. Hours Per Week: 9.3.
+
+Senior Spring: 8.14, 8.06, STS.042, 8.THU, 4.501. Total Units: 54. Hours Per Week: 50.0.
+
+This roadmap was one of the most challenging to make because of the credit limit I imposed on myself. It’s probably one of the most painful to follow in real life too – just look at the average number of hours per week in senior fall! But unlike the previous roadmap, this one will actually work in real life. Although there are definitely less painful ways to double major in 8 and 4.
+
+When I was making this roadmap, I also discovered a 42-unit IAP class about supply chain management. I’m still not quite sure how that class even exists though, since the credit limit over IAP is 12 units.
+
+## 69420
+
+With numbers being front and center in MIT academics, students joke about wanting their transcripts/degrees to say “69420” somewhere. Although there’s no class numbered 6.9420, which is a huge missed opportunity on Course 6’s end, it is possible to major in 6-9, Computation and Cognition, and minor in 4-B, Design, and 20, Biological Engineering.
+
+Let’s take that idea a step further – this next roadmap is a triple major in those three fields.
+
+## 69420 Roadmap
+
+Prior Credit: All the ASEs. Total Units: 150. Hours Per Week: N/A.
+
+Freshman Fall: 9.01, 7.03, 20.110, 4.500, 6.100B. Total Units: 54. Hours Per Week: 49.7.
+
+Freshman IAP: 4.02A. Total Units: 9. Hours Per Week: 33.3.
+
+Freshman Spring: 4.022, 4.301, 6.1010, 6.2000. Total Units: 48. Hours Per Week: 47.9.
+
+Sophomore Fall: 9.07, 6.3900, 20.309, 24.900. Total Units: 48. Hours Per Week: 43.3.
+
+Sophomore Spring: 9.40, 6.3000, 20.129, 4.110. Total Units: 48. Hours Per Week: 45.6.
+
+Junior Fall: 5.07, 21G.063, 4.031, 4.502. Total Units: 48. Hours Per Week: 45.4.
+
+Junior Spring: 9.53, 20.330, 7.06, 4.657. Total Units: 48. Hours Per Week: 33.4.
+
+Senior Fall: 20.320, 11.THT, 4.053, 6.UAR. Total Units: 42. Hours Per Week: 42.2.
+
+Senior Spring: 20.380, 4.THU, 4.302, 6.UAR. Total Units: 30. Hours Per Week: 28.0.
+
+Like the MIT speedrun, I had to include all the ASEs and double count a bunch of biology classes to pull this off. But MIT doesn’t allow triple majoring anymore, so this roadmap wouldn’t work in real life anyway.
+
+Fun fact: It’s also possible to construct a quadruple major roadmap using four biology-related majors, but the proof is left as an exercise to the reader.
+
+## Bad Chemistry
+
+This last roadmap is arguably the most cursed one of them all – a 5, Chemistry, major with a 3-C, Archaeology, minor.
+
+## Bad Chemistry Roadmap
+
+Freshman Fall: 5.111, 18.01, 8.01, 3.096. Total Units: 45. Hours Per Week: 41.6.
+
+Freshman Spring: 5.12, 18.02, 3.094, 18.03. Total Units: 45. Hours Per Week: 39.8.
+
+Sophomore Fall: 5.07, 5.13, 5.351, 5.352, 5.363, 3.098. Total Units: 49. Hours Per Week: 69.3.
+
+Sophomore Spring: 5.03, 5.601, 5.602, 5.361, 5.362, 5.371, 3.095. Total Units: 46. Hours Per Week: 53.8.
+
+Junior Fall: 5.611, 5.612, 5.353, 5.372, 5.373. Total Units: 48. Hours Per Week: 50.7.
+
+Junior Spring: 5.381, 5.382, 5.383, 3.985, 12.384, 3.020. Total Units: 46. Hours Per Week: 53.5.
+
+Senior Fall: 5.04, 21A.00, 3.030, 8.02. Total Units: 48. Hours Per Week: 38.4.
+
+Senior Spring: 5.62, 3.990, 3.987, 7.013. Total Units: 45. Hours Per Week: 35.6.
+
+So what exactly is cursed about this roadmap? At first glance, it looks like a pretty regular set of classes to take for a chemistry degree.
+
+Well, remember how I said that most classes at MIT count for 12 units? The more general pattern is that the number of units for a class is a multiple of 3, and this holds true for pretty much every class at MIT. But in true chemistry fashion, almost every exception to that rule lies in Course 5.
+
+Take a look at the sophomore spring of this roadmap. Seven classes are scheduled for that semester, which is already somewhat unusual, but they add up to 46 units. It’s because 5.361, 5.362, and 5.371 are worth 4, 5, and 4 units respectively. And this weird credit allocation happens nine more times throughout the rest of the roadmap.
+
+Truly an abomination against nature.
+
+Anyway, I should probably get back to studying for finals and stuff instead of procrastinating on CourseRoad. So see you all next semester!

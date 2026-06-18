@@ -1,0 +1,74 @@
+TITLE: classes im taking this semester!
+SOURCE: https://mitadmissions.org/blogs/entry/classes-im-taking-this-semester/
+
+## Introduction
+
+Now that I’ve survived enough midterms to know I won’t change my schedule, here it is:
+
+## 6.1010 — Fundamentals of Programming
+
+I mostly spent last semester knocking some GIRs out of the way, so this was the first computer science class I’ve taken since high school, and I couldn’t be happier to be returning to my roots. Instead of the traditional bi/triweekly lecture + biweekly recitation + weekly pset class format, this class only meets twice a week in small recitation sections that cover concepts that are relevant to our weekly readings and labs.
+
+The labs are typically my biggest assignment on any given week, but they’re pretty fun, and the lab assistants run a total of 18 open lab hours a week that you can go to if you need any help, in addition to regular traditional office hours that are meant for more conceptual questions. The bulk of my lab work is typically completed in these lab hours, since there’s always someone right there to answer any questions that may arise.
+
+Additionally, 20% of your grade on each lab comes from your checkoff, which you can complete by going to an open lab hours session and answering a few questions from a lab assistant about your code. Right now, we’re working on coding up n-dimensional Micesleeper, a spinoff of Minesweeper, which, despite being one of the more notorious labs in the class, has been pretty chill so far. I’m sure I’ll be eating my words in a day or two.
+
+## 6.1200 — Math for Computer Science
+
+This is an introductory discrete math course: so far, we’ve gone over basic proof techniques, state machines, algorithm analysis, number theory, and graph theory. Aside from a two week graph theory course I took one summer, brief brushes with competition math, and years of friendship with known combinatorics nerd Carlos R., my discrete math knowledge was quite limited before this class, and it’s been fun to learn and adopt a new way of thinking and approaching problems.
+
+Additionally, the lecturers are all really lovely and make class very entertaining: my friends and I actually sang a song about graph theory for the class earlier this week, which I’ll write about in an upcoming post. I got cooked to death on my last midterm but it is okay because there is beauty in the struggle and locking in extra hard for the next one will only make me stronger.
+
+## 18.06 — Linear Algebra
+
+I’d planned on trying to ASE out of this one during IAP, but things didn’t end up working out, which means I started off the semester having covered all the material using Professor Gilbert Strang’s textbook and OCW lectures. I may or may not occasionally, or more than occasionally, neglect this class more than my others as a result. Regardless, I do love, love linear algebra: I have a lot of fun with these psets and always know that the TAs will be helpful with any questions that may pop up, since office hours for this class have consistently been very good.
+
+I did have a very scary experience with our second midterm, but then the teaching team graciously mega-adjusted grade cutoffs for it and I was happy once again.
+
+## 14.01 — Intro to Microeconomics
+
+I did not take any HASSes last semester, so I doubled up this semester in order to get on track to complete the requirement in time. 14.01 isn’t a very traditional HASS, since it’s part of a minority of HASSes that give psets, and will probably not even remotely tie into my future academic and professional endeavors, but I wanted to do something about my embarrassing levels of economic illiteracy and figured this would be a good place to start.
+
+It’s been enjoyable so far, and I’m glad to be getting the foundational knowledge needed for some interesting-looking Course 14 classes I could end up wanting to take in the future. I also want to point out that our professor will toss you a sick 14.01 hat if you answer or ask a question during lecture.
+
+## 24.09 — Minds and Machines
+
+Last but far from least, this is a philosophy class where we explore fundamental questions surrounding consciousness and philosophy of mind. We spent the beginning of class defining and examining things like consciousness and the mind, and now we’re playing around with those concepts to ask and answer questions about what it would require and mean for a machine to understand or think or feel like a person does. It’s an incredibly interesting topic, and what lies ahead seems like it’ll be even more interesting still.
+
+A final paper and exam make up the brunt of your 24.09 grade, but my weekly workload for the class is usually composed of a couple of readings and the occasional video. Additionally, we’re required to post either a question about the reading or an answer to another student’s question with each lecture’s reading, which I like a lot more than the traditional discussion board format that usually consists of a lot of observations about the reading and everyone in the replies simply nodding along.
+
+Not only does the question-answer format inspire more interesting discussions, being prepared to question the text I’m reading requires me to think a lot more critically about it than I would otherwise. Asking a good question is often a lot more difficult than answering one is, and I think it’s a great skill to be gained from this course. The most popular questions are discussed at the end of our lectures, which are some of my favorite lectures of the semester. Our professor is super enthusiastic about the subject and makes the lectures entertaining even when I’m pulling up to class first thing in the morning off four hours of sleep.
+
+In addition to all the philosophical insight I’ve taken away from this class, it’s also been a welcome change of scenery from the rest of my classes. I spent most of first semester with this on my whiteboard:
+
+If everything seems under control, you're just not going fast enough!
+
+I do, admittedly, feel my best when I’m moving very fast. And the mentality encapsulated by this quote is an especially easy one to let yourself fall into as a STEM student, especially at a place like MIT: you want to race through your reading or watch lectures at 2x speed so that you can do your psets as quickly as possible, so that you can get to next week’s psets and get through those as quickly as possible, and now that you have some extra time on your hands you could take a day off but you should work on those personal projects you have on the backburner, and now more psets are dropping so it’s time to grind out those too.
+
+I’m not trying to claim that that’s the way it has to or should be: I still make an effort to balance work with everything else, and I have many, many friends here who are way better at that than I am while also doing extremely well academically and professionally. But if you’re like me, then that’s definitely the way it can be.
+
+Approaching my 24.09 readings with that mentality, however, did not go well. It felt like I was sprinting on one of those little hamster wheels, going as fast as I could then finding myself back where I started as I realized that I had not absorbed a word of those four paragraphs I’d just blinked past. This was a new phenomenon for me: I’d spent the first 18 years of my life effortlessly falling into books for hours on end without giving it much thought at all. A HASSless first semester had clearly flipped a few bits in my brain, and I had to remind myself that it was necessary to slow down here in order to nudge them back into place.
+
+When I get really caught up in my work, which is kind of my default state, I tend to turn my life into an optimization problem, and that makes indulging in tiny joys, like taking five extra minutes of travel time to explore a new route to a familiar place or stopping by the Maseeh 3 lounge on my way back to my room, very difficult when they could be dedicated to an iota of a pset instead. But on busy days, those are the things that usually grant me the perspective to fully enjoy everything else.
+
+I recently joined MIT’s Science Policy Initiative book club and my friend Christine and I have agreed to read Dostoevsky’s Notes from Underground at the same pace, two things that would’ve been unthinkable last semester, when all my spare reading time was best spent on combing through research papers for my UROP. In this way, 24.09 has indirectly served as a constant reminder to live my life intentionally and deeply instead of trying to skim over as much of it as I can.
+
+## Sailing
+
+I don’t have much to say about this one since it starts next week, but I’m so excited for it that I deluded myself into thinking it actually started this Tuesday and showed up to an empty sailing pavilion. Passing this class gives you lifetime access to the boats in the MIT Sailing Pavilion, which is situated along my favorite section of the Charles River. I’m looking forward to writing more about it soon!
+
+## What Else Am I Up To?
+
+Finding gainful employment: what’s that… what’s a job… I left the lovely lab I’d been a part of since September a few weeks back, a change that, while due, was jarring, partly since it left me without any summer plans. I’ve spent the weeks since job hunting, and I’m happy to say I found a UROP I really, really like and have recently been working on some initial projects for it. More on that soon!
+
+Arcturus outreach: I run outreach for Arcturus, MIT’s autonomous robot team, so I’ve been planning plenty of events for them this semester. We taught a class at Splash last month, we’re currently running a semi-regular exhibit at the MIT Museum as part of their Student Gallery Cart program, and we’ll be hosting an event for admitted students at Campus Preview Weekend. I’ve always been really passionate about STEM outreach, so it’s been great to have been able to reach so many different people through so many different events in the past months.
+
+dynaMIT planning: In a similar vein, I’m on the board for dynaMIT, a summer program that gives underserved 6th-9th graders in MA a chance to explore STEM. Right now, we’re in the final stretches of selecting mentors, accepting students, and finishing up curricula. I’m on the student relations and the computer science teams, so I’ve mostly been busy with those last two.
+
+Campus tour guide training: okay I’ve been punting this since IAP so I’m putting it on here so that I actually do it. I’ve wanted to be a tour guide for at least a little bit since before I even got here, and I think it would be a great summer sidequest!
+
+Blogging: need I say more.
+
+Choosing a major: AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+I still think it’s insane that I basically just get to do math all day. The amount of fun I’m having with my classes right now, despite lots of them still being fairly general introductory ones, is giving me so much hope for the next THREE YEARS of learning whatever I want at my favorite place on Earth. I’m already looking forward to my next iteration of this post and, like always, I’m grateful for everyone who chooses to make this journey with me through the blog. Let’s hope this next wave of midterm goes well or else I’ll use my soon-to-be-acquired sailing knowledge to ride away down the Charles never to be seen again. I’ve heard Nantucket is nice this time of year.

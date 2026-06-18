@@ -1,0 +1,45 @@
+TITLE: The workload for computer science students?
+SOURCE: https://www.reddit.com/r/mit/comments/10gk3zf/the_workload_for_computer_science_students/
+
+POST:
+Now to preface this, I know what I'm asking about the workload of a top 3 computer science school. I'm not that stupid.
+
+I'm currently a junior in high school and am looking at colleges. I've been programming for around 7 ish years seriously, and I am very motivated in this field. My interests lie in music as well, and I have many creative projects that I am undergoing.
+
+My current school doesn't offer a lot of rigor and is a very relaxed school, but the coursework at MIT seems so fun whenever I look at the curriculum. I'm not the best general student, but I can keep a solid 4.0 GPA and am working on getting better at standardized tests. I've been going around the colleges subreddits that I have an interest in and asking them this question, because who better to ask than the students?
+
+What is the workload like in the computer science department? I know it is a lot, but I am curious of those who have relaxed in school how the transition was.
+
+Thank you! Have a nice day.
+
+COMMENT:
+The workload in the CS department at MIT is inherently rigorous and intellectually demanding. The curriculum is designed to provide a comprehensive education in the field, which requires a significant investment of time and effort. As a motivated individual with a background in programming, I anticipate that you would find the coursework stimulating and engaging, despite its demanding nature. It's not uncommon for students transitioning from a less rigorous educational environment to experience some level of difficulty adjusting to the increased workload. However, with your demonstrated aptitude for CS and a solid GPA, I believe you possess the necessary skills and aptitude to successfully navigate the challenging curriculum. Your interest in music and creative projects suggests you possess a well-rounded and balanced approach to life, which will serve you well in managing the demands of a computer science program.
+
+REPLY:
+That gives a solid outline. Thank you very much!
+
+REPLY:
+Just to be clear, programming is only part of computer science. That’s the only thing I’d add.
+
+REPLY:
+Am I the only one who is 100% sure this is a ChatGPT response?
+
+REPLY:
+I’m certain that this is my response.
+
+COMMENT:
+ChatGPT: The workload in computer science at MIT can vary depending on the specific classes and program of study. However, it is generally considered to be challenging and demanding, as MIT is a highly competitive and rigorous institution. Students in the computer science program can expect to spend a significant amount of time on coursework, projects, and studying. Additionally, many computer science students at MIT also participate in research or internships, which can add to their workload. It is important for prospective students to consider their own abilities and time management skills before applying to MIT's computer science program.
+
+COMMENT:
+If you’re good at math it’s not that hard. If not algos will feel difficult.
+
+REPLY:
+Hmm. It takes me a while to understand math but I can get it under my fingertips eventually. Thanks for the info!
+
+REPLY:
+Np. Watch out for this class: https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/ it's known to be a killer.
+
+COMMENT:
+Yeah, what he said. If you’ve got 7+ years of programming experience then I think many of the non-mathy classes would be fine for you. Probably a challenge, but if you’re used to picking up new programming concepts already then it should be good.
+
+6.046 and 6.006, they have new numbers now, I don't remember what they are, are the two algo classes that will give people trouble if they’re not as great at math and proof-like thinking, but those are the only two math-heavy courses required for CS.

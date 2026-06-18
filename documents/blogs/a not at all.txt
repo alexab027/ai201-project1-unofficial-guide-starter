@@ -1,0 +1,188 @@
+TITLE: A (Not At All) Comprehensive Guide to Your First Year
+SOURCE: https://mitadmissions.org/blogs/entry/a-not-at-all-comprehensive-guide-to-your-first-year/
+
+## Introduction
+
+Since my sophomore year at MIT, I’ve been an associate advisor, an undergraduate student that works with MIT faculty to provide support and act as a resource/guide for MIT first-years. This is a program under the Office of the First Year, or OFY, who is in charge of these things. Note that as the years go on, a lot of these things will change and so it’s always best to defer and refer to the OFY since they know these things best.
+
+It’s one of the most fulfilling things I do here at MIT and I really have loved watching first-years really fall into their rhythm at MIT. Through these past couple of years, I’ve picked up some advice and tips that my advisees have found helpful and I thought it would be even more helpful to make this information accessible and listed somewhere.
+
+It’s hard to be all-encompassing and obviously everyone has their own preferences and ideals and things, so I don’t know just how universal everything in this blogpost would be, but I hope this is helpful in some capacity.
+
+## Table of Contents
+
+GIRs, major requirements, discovery classes: choosing classes
+
+Extracurriculars, living groups, and support: finding community
+
+Extracurriculars, work, UROPs, and more: finding balance
+
+Getting around and getting out: leaving the MIT bubble
+
+## GIRs, Major Requirements, Discovery Classes: Choosing Classes
+
+This is probably the most asked question I get every year as an associate advisor: How do I know what to take this year? For starters, CJ has an excellent blogpost on this. This blogpost is quite comprehensive and informative and offers a lot of good information on how to search for classes and then select them. Here’s a couple more things I have to say on the matter.
+
+There are very commonly recurring schedule archetypes that you can use as a good template for your schedule.
+
+If you don’t know what to major in: Take 3 science GIRs and a HASS CI-H and add a seminar or a discovery class with your overflow units. This is a good schedule because it allows you to get requirements out of the way even if you have no idea what you want to do at MIT and is a manageable schedule with enough room for extracurriculars and exploration. There are 8 total required HASSes so it’s a good rule of thumb to try and get one out of the way each semester.
+
+If you know what you’re majoring in: Take 2 science GIRs, 1 intro class for your major, and a HASS CI-H. If you have other interests aside from your major or are juggling between more than one major choice, consider adding a discovery class or substituting the HASS CI-H for another intro class in a different major. This is a good way to still get started on your major requirements without pigeonholing yourself too deep. Many people change their minds on what to major in, and it’s good to keep your options open, especially your first year. MIT offers an Academic Expo, which showcases all of the majors available at MIT.
+
+Aside from these, I have some general recommendations.
+
+First years should take at least 48 units in the fall. You can go past this number, until you hit the max credit limit of 54 units as of Fall 2022, but anything less won’t be quite representative of the typical MIT experience.
+
+First years should take at least 1 CI-H their freshman year, if not two. This is technically required, but I know some people who don’t do this, and it usually ends poorly for them since they’re placed on a registration advisory list for not taking 1 CI-H their freshman year. If you’re somewhat of the average MIT student, chances are you don’t like writing all that much. That’s even more of a reason to get your writing requirements out of the way in your freshman year, also known as the chillest year.
+
+Because you’re not stapled to a major quite yet, the classes you take in your freshman year are usually going to be reserved for GIRs and major introductory classes. It’ll then be easy to dedicate time to writing an essay as opposed to doing this in your junior year, where you’re then taking 3 other classes that are major-specific and advanced. It’s best to just get the writing out of the way so you can focus on your more relevant classes later on.
+
+The Institute, as of Fall 2022, recommends that you take at least one CI class every year, which is also a good guideline. Note that you cannot take two CI-Hs in the same semester and have them both count.
+
+If you’re a Course 6 major, this is a great time to take 6.100A, which is the Introductory Python course. It’s 6 units so it slots in nicely on top of the 48 units you might already have queued, but if you are someone who is quite new to coding or unconfident in Python, consider swapping out one of your 12-unit classes for 6.100L, the longer 9-unit version of 6.100A dedicated to people who may need more time to grasp coding.
+
+You should have a list of at least 3 CI-Hs you’re interested in. CI-Hs are notoriously difficult to get into, especially the popular ones like 24.900, CMS.100, and 21M.030. As a result, you should always have backups because it’s not guaranteed you’ll get into your top choice CI-H.
+
+Look into registering for a PE class. They’re pretty low commitment, about 1-2 hours a week, and there are really fun opportunities, such as fencing, pistol/rifle, sailing, parkour, aikido, and more. It’s a great way to destress and also work towards your PE requirements. These do not count toward your credit limit.
+
+On average, students usually take between 48-60 units, which roughly translates to 4 or 5 12-unit classes. This is what the usual semester will look like for you as an MIT student, so it’s best to use your freshman fall as test run/simulation for the next four years.
+
+Here are some good resources for planning your classes:
+
+firehose.guide is a website that helps you visualize your class schedule on a semester level.
+
+CourseRoad is a tool used to create four year plans at MIT.
+
+FireRoad is a mobile app that is a combination of CourseRoad and firehose that plans your four year schedule and also shows you your class schedule.
+
+Now for some hyperspecific situations:
+
+Can I go over the credit limit? Nope. Credit limit can be found here.
+
+I didn’t get into any of my CI-Hs. What do I do? Join the waitlist for the class. Email the professor for the class saying you’re interested in the class for specific reasons and you’re currently waitlisted. Show up to the class even if you’re waitlisted. This is because if someone doesn’t show up to the first day, waitlisted students that are present will then take their spot. There is a nontrivial chance you can get into the class this way. Obviously, it’s not guaranteed, but it’s a good way to try.
+
+With your classes settled, let’s talk a little bit more about surviving at MIT.
+
+## Extracurriculars, Living Groups, and Support: Finding Community
+
+With your classes chosen, let’s talk more about surviving at MIT. Your freshman fall is on PNR for a reason: to give you the chance to build community here. Because you don’t have to spend 100% of your time grinding and studying for classes, you’ll have a lot of free time to figure out how to fall into the groove of MIT. The number one advice I have for frosh in this point of time in their MIT career is to find support.
+
+A good chunk of your support is going to come from your living group. Be sure to participate in REX to find a community you are comfortable in. Also be sure to check out various rush events, both fraternity and dorm, to get a real good taste of what’s out there. As a disclaimer, I would like to say that it is okay not to be 100% in love with your living group. Your living situation does not have to be your everything, but it definitely helps your MIT experience if you are somewhere you like. Other people like their dorm to just be somewhere they sleep, and get the majority of their social interaction from other places, which is valid.
+
+A good place to look for social interaction aside from your dorm is the Activities Midway. This is an event that takes place in Johnson Ice Rink, where all student groups on campus set up booths with goodies, treats, and best of all, info on how to join. You can find a full list of groups, but here are just some honorable mentions.
+
+If you like being creative: Consider joining The Tech to write for the school paper. Or perhaps The Infinite, a magazine where you can design, model, photograph, and submit poetry.
+
+If you like the arts and performing: Consider joining one of MIT’s many acapella groups. There are a lot. If singing isn’t for you, then you can also join a dance group. If you’re looking for something that leans a little more into performance, you can join improv group Roadkill Buffet, the Musical Theatre Guild, or Shakespeare Ensemble. We also have things like MIT Symphony Orchestra, Video Game Orchestra, and more if you play an instrument.
+
+If you want to do something you’ve probably never tried before: Consider the spinning arts club, where you can learn how to firespin. Or the Chocolate Lab group, which recruits renowned chocolatiers to come to MIT and share their love of chocolate with the community. You can also participate in some funky cool sneaky activities with the Assassin’s Guild.
+
+If you love activism and making change in the community: Consider joining some form of student government, like the Undergraduate Association, or make change for your dorm community through DormCon, or help plan fun events for the student population through Student Events Board or SaveTFP.
+
+If you are interested in mentorship and volunteering: There are so many different mentorship groups on campus, including MIT CodeIt, which specifically helps middle school girls and nonbinary students get introduced to coding, MIT DynaMIT, which is a STEM outreach program for middle school students in Boston, or Camp Kesem, a summer camp program for children who have a parent who has passed from cancer, is currently in treatment for cancer, or is in remission from cancer.
+
+If you love being active: Maybe try out MIT Outdoor Club, MIT Sports Taekwondo, or even MIT Cheerleading for some less-common-but-very-cool activities.
+
+As you can see, there are a lot of options. Not everyone at MIT does extracurriculars, but there are so many things that you will for sure find something that tickles your fancy. In fact, there might be too many things that you mesh with, but we’ll talk about that in a later section.
+
+Aside from this, there are plenty of other resources on campus for general support.
+
+Student Support Services, or S3, is a support for MIT undergrads who are struggling with their time at MIT. If you ever feel sick, have a personal tragedy, or even if you’re just overwhelmed and can’t complete your work, you can meet with an S3 dean who will vouch for you and help you navigate your way through MIT. Note that your hardship doesn’t have to be some great tragedy like a family death or a broken limb. I personally reached out to S3 just because I was feeling overburdened with work and had too many things to do and was incredibly stressed by it.
+
+For pset/tutoring help: Talented Scholars Resource Room, or TSR^2, is a resource on campus with an emphasis on first year GIRs. TSR^2 offers weekly pset nights, with each night being dedicated to some popular GIR or intro class, as well as exam review sessions, one on one appointments, and study groups. Go to your class’s office hours as well. TAs are there for a reason, and that’s to help you learn. For writing support, MIT has the MIT Writing and Communication Center that not only helps with writing for your MIT classes, but also grant and fellowship proposals, journal articles, thesis or dissertation proposals, cover letters, creative writing, and more.
+
+For help within your dorm: You can find support in your graduate resident advisors, or GRAs, who are graduate students who serve as mentors, support, and guides for the undergraduate students living there. If you’re looking for someone who is part of the MIT community that is still a student but not so deeply entrenched in the undergraduate experience, GRAs are a great resource to reach out to. You can also find help and support in resident peer mentors, which are upperclassmen in your dorms that help create community specifically for frosh, or even reach out to just your heads of houses for help.
+
+Also within your dorm, you will find Pleasure educators, or “peers leading education about sexuality and speaking up for relationship empowerment” educators. This is a student-led effort to help promote healthy relationships and reduce sexual violence at MIT. Pleasure educators work closely with the Violence Prevention and Response team at MIT, as well as MIT Medical. Your sexual health is very important and they are a great resource for education and support in that realm. Speaking of health, all living groups also have MedLinks who can provide you with over the counter medication and first aid if you find yourself in need of it throughout the year.
+
+For career and academic development: You can look into reaching out to the Career and Professional Development Offices, or CAPD, for support. CAPD offers fellowship advising, prehealth advising, professional development support, mock interviews, resume reviews, and a whole lot more. You can also reach out to your advisor and/or your associate advisor for input on internships, grad school, or just what next steps to take.
+
+For specifically Course 6 help: This is a little more niche, but since over half of MIT majors in some flavor of Course 6, this is probably useful. MIT’s Eta Kappa Nu, or HKN, chapter offers tutoring as a free service to undergraduate students. This program offers one on one tutoring for MIT’s most popular Course 6 classes. I used HKN for help with Intro to Algorithms and it was very helpful.
+
+For cultural and LGBTQ+ support: Consider reaching out to SPXCE, Social Justice Programming and Cross Cultural Engagement, for support or the Rainbow Lounge and other general LBGTQ@MIT resources.
+
+There are so many places to find support and community at MIT. I personally found a lot of support through the blogger community, my sorority, my friend group, and through CAPD. Also, this is not an exhaustive list — there are some resources on campus that I may have missed. You can also find community literally anywhere and can find it more organically than through these programs, such as forming a close bond with your UROP advisor or TA. But, truly, the TLDR of this is to find community on campus because it will help keep you sane and steady in a place as fast-paced and overwhelming as MIT.
+
+## Quick Notes on Community
+
+Heed the November Rule, the mainly unspoken rule on campus of no frosh-upperclassman dating until November. I usually add an addendum of no frosh-frosh dating either, but that’s my personal input. This is a rule that a lot of frosh will scoff or roll their eyes at, but it is probably the most important rule I can think of at MIT. You have traveled hundreds or thousands of miles from home, show up in this intense environment, and are experiencing true independence for the first time in your life. The last thing you as a freshman could possibly need is a relationship.
+
+The November Rule exists so that freshmen focus solely on forming friendships. The reason November Rule exists is because an intense romantic relationship can often hinder other relationship building in your life. The worst case scenario that happens all too often is that a frosh ends up dating someone before November, spends a lot of time investing in that relationship, and then they break up and the frosh now finds themself friendless because they spent so much time with that significant other and not enough time finding true support and friend groups at MIT.
+
+Try and find at least one friend in each class at MIT. They don’t have to be your best friend, but someone you can wave at in the hallways or DM for notes is a good way to ensure you have at least one source of help.
+
+You’ll also want to join class group chats. These have saved me many times during my time at MIT. The number of times I’ve messaged in a group chat asking for help with a pset is incredibly high and it’s super helpful. If there’s no group chat for your class, feel free to just make one yourself and add people. This is a great way to get to know people, too.
+
+Upperclassmen are incredible resources, but also be sure to form your own opinions. I’ll be the first to say that I am an upperclassman that loves giving my advice anywhere and everywhere I can, but I will also acknowledge the fact that there are different strokes for different folks. Some people here vehemently hate Greek Life while others swear by it. Some people love certain professors while others would rather avoid interacting with said professors. So for sure lean into upperclassmen, but realize that what worked for them at MIT might not work for you and that is perfectly okay.
+
+Now that you have maybe a couple extracurriculars you’re doing and some established support systems at MIT, we can move more into balance.
+
+## Extracurriculars, Work, UROPs, and More: Finding Balance
+
+Even with your extracurriculars, you might find that you still have time to do things. Or, probably more likely, you want to make more money on campus to fund yourself during your time here. Totally understandable.
+
+Some common places you can find jobs are:
+
+Federal Work-Study Program. If you’re on this mailing list, you’ll get emails every couple weeks or so that let you know of some well paying work-study jobs. My first job at MIT was actually found through this program.
+
+Experiential Learning Opportunities, or ELOs. These are UROPs, MISTIs, and other opportunities on campus that you can apply for and make money from. They’re a great source of income and there’s a statistic that states that more than 90% of MIT students complete MIT with having done at least one paid UROP. Don’t be afraid to cold email professors or PIs whose labs and work you’re interested in. There’s a nontrivial chance that they’ll respond, and the worst answer you can usually get is a no or you get ghosted. Shoot your shot and find something you enjoy on campus.
+
+Jobs around campus. You can work desk at the libraries on campus, find jobs at CAPD as a program assistant, work as assistants or social media interns for various groups and departments on campus, check your email for opportunities, work desk at the gyms on campus, or work desk for your dorm.
+
+Tutoring, LAing, and TAing. After doing well in a class or if you’re already qualified, you can get paid for tutoring for a class or being either a lab or teaching assistant for a class. You can message professors saying you’re interested in a position for the class.
+
+So now you have a full courseload, a couple extracurriculars, and a job. That’s a lot. How do you balance all of this? Well, that’s the hard part.
+
+I always tell first-years that they can be as busy, or as unbusy, as they would like. That’s the beauty of MIT. The downside to this, though, is that there will never be enough time to ever do absolutely everything here. And thus MIT becomes one of the hardest optimization/prioritization problems you will ever encounter in your near-adult life.
+
+Because there is just so much to do all the time, you really want to protect your time at MIT and learn the important lesson of how to drop things and how to say no. Dropping things is necessary at MIT to stay afloat. Of course, it would be better if you could see all activities through to the end, but this simply isn’t realistic.
+
+Freshman year is on PNR to help you not only adjust to the college environment, but to also give you a grace period to learn your limits now. See how you handle 3 extracurriculars on top of a 4 class schedule. Is it doable? Is this too much? Do you have time to eat, time to go to the gym, time to still hang out with friends spontaneously? Is 3 classes too much, too little?
+
+Experiment around and figure out what you want these next four years to look like through this trial period. Through my freshman fall, I tried maybe 8 to 10 different clubs, which I all inevitably dropped, to try and figure out where I wanted to spend my time. I realized I really prioritized making money through jobs and spending time with friends more than throwing myself into my classes or dedicating myself to extracurriculars too deeply.
+
+This PNR semester should be a learning period for you: make mistakes, try everything you want to do, fail fast, and, most importantly of all, drop things you don’t like and keep the ones you do. Drop things if it’s boring. Drop it if you don’t like it. Drop it if you’re not passionate about it. And with every drop and keep, you learn a little more about what you want out of your MIT experience.
+
+## Getting Around and Getting Out: Leaving the MIT Bubble
+
+Perhaps this has faded with time during the pandemic, but MIT undergraduates are notorious for sticking within the MIT Bubble, meaning MIT students are not as prone to leaving campus as they should be. We often get so caught up in our classes, various extracurriculars, living communities, and such that we forget that there exists a world outside of MIT, both physically and metaphorically.
+
+## Escaping the Bubble: Physically
+
+There are a myriad of ways to escape MIT. Here are some personal recommendations for getting around MIT.
+
+You can purchase a bike or a scooter, electric optional, once you get to campus. The MIT Police holds an annual bike auction if you are looking to purchase a bike.
+
+If you don’t enjoy the idea of purchasing a bike, you can also make use of BlueBikes, a subscription based biking service around the Boston-Cambridge area. You can pay a monthly or annual subscription, or just a case by case basis, to rent a bike for less than 45 minutes at a BlueBike station. Just make sure you return it to a station by the end of your ride and dock it properly.
+
+Boston-Cambridge public transportation, depending on who you ask, is great. All MIT IDs have a CharlieCard built into it. You can fill your CharlieCard either online or in person at a terminal usually found at every T stop. Note that if you fill in your card online, you must tap a T stop terminal in order to activate your funds. If you fill in your card online, you can’t immediately use it on a bus since it won’t acknowledge you filled the card. Buses and the T are a great way to get around. Consider taking the Green Line into Boston, or taking the 1 Bus to Harvard.
+
+Speaking of Harvard, MIT students are eligible to get Harvard Library IDs. Once you get this library card, you can ride the M2 for free. The M2 is a Cambridge-Harvard Medical School shuttle that Harvard ID havers can ride for absolutely free. It is basically the exact same route as the 1 Bus except it’s free. Use it.
+
+Walking is a totally viable option and is extremely easy in Boston-Cambridge. It’s a walkable city. The air is great. It’s fresh. Walk.
+
+MIT offers a shuttle service that runs about every 30 minutes from campus. There are shuttles that go all across campus, into Boston, and also into Brookline and Cambridge. There even are shuttles that take you to Costco, Trader Joe’s, Whole Foods, and the Daily Table.
+
+Zipcar and other car rental services are available as well if you want to take a trip to any of the nearby states. I’ve personally taken trips to New York and New Hampshire with friends and clubs and it’s a great way to explore the northeast.
+
+## Escaping the Bubble: Mentally
+
+It’s very easy to get caught up in the day to day of MIT. Because you are constantly surrounded by such brilliant people, you’ll often start to hold yourself up to incredulous standards. You may think to yourself, “Ugh, I’m only doing research instead of an internship” or “I’m only taking single variable calculus when all my friends are taking multivariable calculus.”
+
+It’s important to step out of MIT sometimes and realize that the standards we are held to here aren’t at all applicable or realistic for the real world. Make sure to ground yourself by doing quick little sanity checks here and there. I do this best by keeping in touch and maintaining a circle of friends that are non-MIT folks.
+
+Just remember that MIT is not the world, and the world is not MIT.
+
+## Miscellaneous Things
+
+Do your laundry. Wash your sheets at the very least once a month. I do every two weeks.
+
+Vacuum your room or at least try to clean it once a week. I take an hour or two every Sunday morning to just clean my room: sweeping, vacuuming, mopping, throwing out the garbage, etc. just to keep my space clean.
+
+Keep your schedule open for spontaneity. A great part of the college experience are the unplanned things: that 3am trip to IHOP, going on an unplanned three day weekend vacation in some questionable Airbnb in New York, walking into your dorm and chatting with the people you find in the lounge. Make sure you take time to enjoy these little things.
+
+Find your happy outlets. Everyone needs a break from MIT at some point; make sure you have that activity that allows you to have that break. Some people like working out, others like painting, other people like crocheting or knitting. Find something that allows you to turn off your brain and just be.
+
+These four, or five, or three, depending on who you are, years go by so quickly. I’m a senior and there’s still so much I wish I could have done at MIT. If you’re interested in something, truly just go for it. If there’s any place to do it, it’s here at MIT, where diving headfirst into something scary and unknown is not only encouraged, but expected. There will be people to catch you if you fall. Mistakes are welcome. You’re bound to mess up a couple times here at this school. Enjoy it while you can. After all, there is truly no place like MIT.
+
+Happy first year!

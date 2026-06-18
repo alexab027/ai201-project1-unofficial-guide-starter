@@ -1,0 +1,146 @@
+TITLE: 6-3
+SOURCE: https://mitadmissions.org/blogs/entry/6-3/
+
+## Introduction
+
+It’s no secret that Course 6-3 (Computer Science) is one of the most, if not the most popular major at MIT. According to the Registrar, there were 757 undergraduate students alone enrolled in Course 6-3 for the Fall 2017 term. That’s roughly a fifth of the undergrad population that declared a major. So it’s not just a meme when people say that if you had to guess what course someone was, it’s probably 6-3.
+
+As such, Course 6-3 often has a fair bit of stigma as a “sellout” major, since it’s extremely popular and associated with a higher probability to earn above-average salaries after graduation. The fact of the matter is that pretty much all the people I’ve met who are 6-3, which is a lot, aren’t in it solely for the money. 6-3 is actually a fun major believe it or not, and I’ve gotten far enough along in it now to explain what it’s been like from my perspective.
+
+This post was motivated because I’ve been corresponding with a prefrosh on Reddit that had a lot of really good questions about 6-3 that I didn’t realize wasn’t common knowledge because I’d been exposed to 6-3 for so long. So I thought I’d make a fair, not but exhaustive, overview.
+
+## Why Is It 6-3 and Not Just 6?
+
+Course 6, Electrical Engineering and Computer Science, at its heart, is broken down into three separate portions of a spectrum: 6-1, 6-2, and 6-3. 6-1 is pure EE, 6-2 is a hybrid of EE/CS, and 6-3 is pure CS. There’s also 6-7, which is CS/Biology, and 6-14, which is CS/Economics. However, 6-7 and 6-14 are named because 7 is biology’s course number, and likewise for economics, whereas the numbers 1, 2, and 3 mentioned prior don’t refer to Course 1, 2, or 3.
+
+Although it’s a spectrum, if you weight it based on enrollment, it’s lopsided towards 6-3. Based on the same information from the Registrar, there were 59 people in 6-1, 380 people in 6-2, and 757 people in 6-3. The fact that it’s called 6-3 doesn’t mean that it’s a lesser major or a minor. It’s a full-fledged major that is one of many offered by the Electrical Engineering and Computer Science department, which itself falls under the general School of Engineering.
+
+## What Classes Do You Take?
+
+First, let’s go over the required classes. Most of this information is provided by the MIT Catalog. Sometimes, you will have to make a choice between two or so classes, like choosing between 6.045 and 6.046 or between 6.034 and 6.036. Feel free to refer to the Catalog for full requirements.
+
+If you’re new to programming or computer science and don’t know some terms as this section goes along, don’t worry. This blog post is meant to serve as an overview of the major, to give you a sense of what’s to come.
+
+Notes:
+
+There is a possibility I give slightly outdated information for some classes since I’m describing them based on the semester I took them, and not the most recent offering.
+
+I don’t have an opinion on some of the classes, since I haven’t taken them, so I have several 2E Next House friends/alums who are/were 6-3 that will chime in in those cases.
+
+## 6.0001 — Introduction to Computer Science Programming in Python
+
+This class is essentially what the title says. No prior programming experience is required. Yes, you can be a 6-3 without knowing anything coming in. You learn really basic things in the beginning, like declaring variables and setting them equal to numbers. Then you learn about lists, tuples, dictionaries, functions, recursion, and finally classes and basic object-oriented stuff like inheritance. There are a few problem sets, and they’re comprehensive and long and will serve as the bulk of the class. It’s six units, so if you’re new to programming, taking four full classes plus this is a great start to your first freshman fall.
+
+## 6.042 — Math for Computer Science
+
+Basically your discrete math class. Really useful, starts off by going over proofs and ways to construct them, then takes you on the tour of counting, graphs, probability, and other fun stuff. The art of constructing proofs is really the backbone of the entire course and you use the skill throughout, which is why it’s covered first. It’s also taught using the flipped TEAL format, which means that you aren’t in a lecture hall but in a small group setting with around five other classmates. In addition, you learn the material outside of class and apply it in class by working on problems.
+
+## 6.01 — Introduction to EECS via Robotics
+
+If you take this as a 6-3 and intend to go pure CS, it’ll probably be the most EE class you’ll take. 6.01 belongs in a trio of courses, 6.01, 6.02, and 6.03, that are intended to serve as introductions to the general EECS department. 6.02 deals with communications networks, and 6.03 deals with medical technology, but 6.01 deals with robots.
+
+When I took the class, there was a final exam, but last semester, it was replaced by a final project instead, which I think is great. 6.01 was broken up into four main modules that took you on a tour of EECS: signals/systems, circuits, mainly Bayesian probability, and mainly graph search algorithms. You do labs every week that revolve around a cute robot that will be able to do a surprising number of things by the time you’re done with it, like follow an infrared sensor around, park itself neatly into a miniature parking space, and find its way out of an unknown maze just by sensing the walls around it.
+
+## 6.004 — Computation Structures
+
+This was a really fun class, although it was also really hard. It takes you on a low-to-high level tour of a typical computational machine, otherwise known as a computer. You start by learning binary and how MOSFETs work, and how MOSFETs can be combined to make basic logic gates like ANDs, ORs, XORs, et cetera. Then you start putting the ANDs and ORs together to make some more complicated structures like ALUs or ROMs. There’s an actual software program that you can use to build the gates and units yourself as part of labs and homework.
+
+Then comes one of the hardest, but coolest parts: you learn the parts of a basic processor, and build your own, called the Beta. After accomplishing this great feat, you get your own sticker your can put on your laptop that says “Beta inside.”
+
+Of course, you’re not done there. Once you have a processor up and running, now you need to know how to use it. Next up is assembly code, where you learn how binary is actually magical and how assembly code translates to actual binary, and then you learn how to wrangle all 32 registers you have to your advantage. You’ll eventually be able to code a bubble sort algorithm using assembly. You’ll also learn how to pipeline your processor.
+
+Then comes the high-level stuff: how caching works, how virtual memory works, how compilers work, how semaphores work and how deadlock happens, what kernels are and how to make your own really tiny OS, and how to deal with multi-core structures. Finally, with all this newfound knowledge, you’ll be challenged to make your Beta run as fast as it can, in the form of a final design project.
+
+## 6.UAT — Oral Communication
+
+One of the most useful courses I’ve taken at MIT. Really hones your ability to present and convey ideas efficiently and in an engaging manner. Break the MIT stereotype that we’re all just awkward nerds who can’t talk. Your experience is highly dependent on your recitation TA/RI who give you feedback on how to be a better presenter. Tony Eng is a great lecturer and a really nice guy. I would recommend taking this class not your senior year, because it helps develop so many soft skills that you can use in other class presentations and interviewing and everything.
+
+## 6.006 — Introduction to Algorithms
+
+6.042 used a lot of math, but this class was when I really felt like I was starting to put on my thinking cap, and the major went from “programming all day all the time” to “am I a math major?”
+
+Instead of programming as the central focus of a class, 6.006 will rack your brain as most of the time you spend on problem sets will be thinking of the solution through lots of metaphorical pen and paper. You’ll be in front of the keyboard to implement certain algorithms or type up your pset in LaTeX, but other than that, you’ll most likely be pacing back and forth, whiteboarding with other people in your pset group, or spending long nights at your desk wondering how to get this pizza delivered in O(E+V⋅log(V)) time.
+
+Taking this class during my sophomore fall was an interesting time for me, because a number of things happened: I was sick with a crap disease all semester, I was losing motivation trying to keep up with 18.100A, which ultimately led me to drop it and give up on Course 18, and my feelings for MIT in general were at an all-time low. In the end, I got a C in the class, which I didn’t mind because I felt like I wasn’t able to give that semester my best effort anyway, and I was okay with that. 6.006 reassured me that even though I wasn’t going to pursue any form of a Course 18 major or minor, Course 6 offers more than its fair share of challenging you in the mathematical sense.
+
+## 6.046 — Design and Analysis of Algorithms
+
+I thought 6.006 was hard. Then I had to take this class.
+
+Where do I even begin with 6.046. I can safely say that 6.046 picked me up, chewed me up, and spit me out drenched in dense, long proofs, esoteric definitions, and hellish psets twice as hard as 6.006.
+
+That being said, it was a good class because it pushed me a lot, and I was finally able to put in enough effort to where I felt a lot better with algorithmic thinking and proving things related to algorithms. I got a lot better at analyzing asymptotic time/space complexity, understanding harder algorithmic concepts like streaming algorithms and linear programming, and getting used to CS-based math in general. There was a fair share of referenced research done in recent decades, which was cool. There wasn’t any programming, which I see as a downside since although I get the general concept of a given topic covered in that class now, I’ll still have to put in a lot of effort in if I want to implement those concepts in the future.
+
+Also, the curve, or grade cutoffs, was really good last semester, which gave me a lot of faith that the course instructors knew that the class was really hard. I absolutely got destroyed on the final but managed to pass with a pretty okay grade. To all your friends that say Course 6 is an easy major, please tell them to look at 6.046.
+
+## 6.045 — Automata, Computability, and Complexity
+
+Basically a sampler of 18.404, Theory of Computation. Very different from most topics in CS, doesn’t require you to have a background in anything, and teaches you a different way of approaching a very unique space of problems. Doing psets is almost like solving puzzles.
+
+It helps you understand better computing power, the limitations of computers, and sets the basis of why algorithms are important.
+
+## 6.009 — Fundamentals of Programming
+
+Basically, you get a lot of Python programming experience through this class, and this experience is gained through long, educational labs. The Lisp interpreter lab was one of the most fun labs I’ve done so far at MIT. Learning how to write a language, especially a cool one like Lisp, using another was really cool.
+
+There were a lot of other fun labs as well: n-dimensional Minesweeper, autocomplete, and a platformer adventure game. The labs are probably slightly different now but you’ll get your fair share of labs you don’t care for and labs that are actually pretty darn cool.
+
+6.009 pairs into 6.031, and together they form what used to be 6.005, which doesn’t exist anymore.
+
+## 6.031 — Elements of Software Construction
+
+6.031 is probably my favorite class. It’s hard as hell, there’s a ton of work, but it was a class that made me go “yep course 6 was the right choice.” There’s nothing like finally completing a pset, looking at the cool thing you just made with your own two hands, plus computer, and just appreciating all the work you put in to get there. It’s definitely made me better at programming, and it’s How To Software For Real.
+
+6.031 is what I knew as 6.005, and it was one hell of a class to go through. They upped it to a 15 unit class, which is just slightly more representative of the huge amount of work you’ll have to do for it. I struggled a lot with that class, especially because I had trouble transitioning from knowing only Python and being used to a syntactically lightweight language to something as obscenely verbose as Java. That being said, I am undoubtedly a better programmer as a result of 6.005, and it’s essentially How To Not Get Fired In Industry: The Class.
+
+## 6.033 — Computer System Engineering
+
+Probably one of my all around favorite classes. Katrina is such an amazing lecturer and you’re doing yourself a disservice if you don’t go to lecture. It’s a CI-M so there’s a lot of writing, which some people like to complain about, but you’re going to be an engineer who has to write and be able to digest technical papers, so that practice is welcome. Your mileage may vary a lot with the final project.
+
+Despite being a CI-M, 6.033 has given me the most applicable technical knowledge out of any class I’ve taken so far.
+
+## 6.034 — Artificial Intelligence
+
+Gives you a sampler buffet, essentially a brief history of where AI was, where it is now, and where it’ll be going with the Spiritual/Right Now lectures. It had a favorite grading mechanism for tests, where the final had sections corresponding to each midterm you took, and your score would be the max of your midterm grade and final grade, so it was essentially a second shot at your midterm. If you were happy with all your midterm grades, you didn’t need to take the final, but if you bombed only one midterm then you’d only need to do that section on the final. It didn’t do too much in terms of giving you hot marketable ML skills like 6.036, but was a chill way to satisfy that requirement.
+
+I really liked the “right now” lectures they do. Almost every week, they invite an expert in a field of AI to talk about their research and the applications. I found them inspiring, and a class is much more fun to take when you’re reminded of the end picture and have an answer to “but why are we learning this?” Also, you learn a lot about human intelligence, which you need to understand to do AI.
+
+## 6.036 — Introduction to Machine Learning
+
+You can take either 6.034 or 6.036 to satisfy the major requirement. 6.036 deals a lot more with the how with respect to machine learning, and probably less of the why than 6.034. You will be fairly proficient with numpy, a Python library, by the time you’re done with this class. You’ll learn a lot too: from simple linear classification problems to regression, simple neural nets, CNNs, RNNs, MDPs, and more. This class has a lot of material. You’ll be able to make your own neural network for your own projects.
+
+Those were all the required explicitly named classes, but there’s a number of electives you have to take to round out the major, and once again we have people that chimed in with thoughts about classes they’ve taken that are related to Course 6-3. Some of these classes won’t count for the major since they’re in a different department, but they’re still cool classes.
+
+## CMS.609 — The Word Made Digital
+
+When I walked into The Word Made Digital on the first day, my professor had the game Everything pulled up on the projector, and proceeded to play around for about the first 15 minutes of class. He didn’t provide any real context, and he didn’t provide any introduction until he was done, but I already had a feeling I was going to like this class. Looking back, The Word Made Digital was a little abstract, a little zany, a little technical, but definitely an all around engrossing experience.
+
+In the strict sense, the class looks to analyze non-narrative digital uses of text, using approaches from poetics and computer science. But for me, it was a chance to really explore my creative side by using my technical talents. The class centers on four programs, each featuring a unique prompt, and each one giving me a chance to try out programming in an artistic way that I had never even considered before. Overall, the assignments were a really nice break from the concrete instructions of typical Course 6 classes, and Prof. Montfort was an incredible resource who helped me think about the unusual and really put my skills to use. To date, this is one of my favorite classes I’ve taken at MIT.
+
+## 6.813 — User Interface Design and Implementation
+
+You work on one UI project for the duration of this course in a group of six, plus you have a series of psets building a web version of Candy Crush. It gives a good foundation for what defines good and bad UI/UX, and is kind of a freebie class as long as you turn in the work on time. After taking this course you likely will pay attention to the usability of things and call out the ones with bad UI.
+
+## 6.858 — Computer Systems Security
+
+Hands-on security class. Every assignment in this class revolves around breaking systems and building even more secure systems, in a variety of languages. There’s never a “correct” answer, as long as you find the vulnerability holes and successfully break or fix the system. It is a great class if you want that kind of hands-on work around security, and it feels awesome when you break things.
+
+## With a Lot of Those Classes Under Your Belt, Do You Think You’re Prepared to Go Into the Industry?
+
+Oh god no. Far from it. Course 6-3 is mostly Python before something like 6.031, which means that if you need to learn other languages, to be more employable, to do non-Python projects, or to do web development, you need to learn a lot of things on your own.
+
+I came into MIT with not a lot of programming experience. Course 18 was more my thing. I knew some basic Java and that was about it. Since then, I’ve gotten to be fairly proficient with Python, but not much else. Arguably, this is a bad thing, since you’re limiting yourself to one language. But after thinking about it, I think exclusively working in Python for almost two years wasn’t so bad after all. The exclusivity let me really get into Python and understand a lot about how it works, and how programming languages worked in general. This meant that I could learn other languages on my own much more easily. I’m reading/learning Java and Scala right now for my internship, and they’re much less painful experiences because even though I don’t have a specific background in those languages, I have a background in general programming and thinking algorithmically/like a CS student.
+
+My journey through Course 6-3 is only half over, anyways. I have yet to take 6.031, which I will in the fall, which is like the software engineering class, among lots of other fun things.
+
+## Why Did You Choose Course 6-3?
+
+Initially, when I came to MIT, I had no idea what I was going to do, except that I was into math and probably wanted to go into computer science. My dad was into electrical engineering and did programming as a hobby, going as far as getting a software engineering job for a short time in Korea before quitting and moving to the States. So I had a little bit of exposure to programming, but not much. I picked up a couple programming books when I was younger, Visual Basic 6 and C++, but didn’t get very far because it was all too confusing at the time. I did read a fair amount about Java my senior year of high school, so going into MIT I had a little bit of programming knowledge that served as a really nice cushion while I was taking 6.0001.
+
+I took 6.01 and 6.042 after 6.0001 because I wanted to see what the EECS department as a whole was like, which motivated me to take 6.01, and wanted to see what math in a CS lens was like, which motivated me to take 6.042. I thoroughly enjoyed both classes, and it was at that time I knew that I wanted to go into some version of Course 6. If I didn’t like 6.042 or 6.01, I probably would have tried a different major, probably Course 18 or Course 2-A.
+
+To be honest, I could easily be Course 6-1 or 6-2 instead and still be happy. I really enjoyed learning about signals and systems, circuits, and low-level stuff in 6.004. But I think I liked programming just a little bit more to stick to 6-3 instead of the others. I appreciate the thought and design that goes into programming languages just as much as the structure of human language, even though I’m still a noob when it comes to programming language design stuff.
+
+Ultimately, I chose to go for an applied 6-3 route instead of a theoretical 6-3 route or 18 because although I love mathematics very much, I get satisfaction and pleasure from working on projects that have relatively immediate positive impacts on other people, and I feel like I get more of that from doing 6-3 over 18.
+
+So that’s the end of it, for now. Course 6-3 is a really big community with a lot of really great people, some amazing professors, and a lot of opportunities. Obviously, some classes won’t hit the mark for you, whether it be the subject matter or bad course management or instructors. This varies with time. 6.036 used to be run poorly according to general sentiment, but now it’s pretty alright. Overall, it’s a great time, and even though it has its stereotypical traits mentioned in the very beginning of this post, it’s genuinely a rewarding intellectual experience as well.

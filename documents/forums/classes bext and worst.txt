@@ -1,0 +1,38 @@
+TITLE: Which Course-6 classes are/were the most and least fruitful to you?
+SOURCE: https://www.reddit.com/r/mit/comments/txs1bp/which_course6_classes_arewere_the_most_and_least/
+
+POST:
+Fruitful:
+
+You enjoyed
+
+You learned something new and useful
+
+Your skillset improved, in whichever way you may consider it
+
+Basically which classes in EECS have the highest and the lowest return on investment?
+
+COMMENT:
+6.172 for understanding the performance implications of programming, felt like the first real gritty computer science class I'd taken.
+
+6.115 was great for getting practical experience for how embedded system design actually works, plus Leeb's lectures are phenomenal.
+
+6.131 was the point at which circuits "clicked" for me. Another Leeb class and definitely made me feel like an engineer by learning circuits through the design process; i.e. meeting specs for a system, building a circuit to complete a practical task.
+
+COMMENT:
+In terms of software, or in general? In any case:
+
+Least useful: 6.UAT and 6.031
+
+Most useful: 6.033, 6.034, and 6.858.
+
+6.034 was useful because Winston was a legend, and the foundation you build is strong.
+
+Most interesting, albeit not useful: 6.853, because it was too theoretical and I don't work on markets/pricing, and 6.860, which is occasionally useful depending on what I'm modeling.
+
+Wish I had taken: 6.824.
+
+COMMENT:
+The curriculum has changed a lot since my time, but I really enjoyed and learned a ton from the old 6.170, software engineering lab. I learned how to divide work among a team, how to deal with a codebase that's changing because of work others do, how to deal with vague and changing requirements, how to adjust as you realize your foundational architecture has flaws, and through all of this, the value of simple, flexible, testable code over cleverness and optimization.
+
+I agree with the 6.UAT hate, and also some other class that I can't remember the name or number of that was basically a technical writing class. I get that MIT is trying to avoid creating technically brilliant engineers who can't write or speak worth a shit, but everyone is so hosed by their technical classes that they just try to get by in these classes and do the bare minimum to pass while not actually learning anything. Which is fine, smart people will pick up communication skills on the fly as needed.

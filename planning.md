@@ -49,11 +49,26 @@ I chose student advice given on public forums aimed at underclasses CS majors at
  
 
 **Chunk size:**
-I will split forum pages into comments. subcomments will be related to their parent comment if < 75 words. Blog pages will be split by headings and subheadings. for any chunk > 700 words, chunks will be split by paragraph, preserving full sentences always if paragraph is > 700 words. the target for blogs will be 250-500 words and for forum comments 100-500 words.
+I chunk each section or comment into groups of 4 sentences. I switched from the originally planned word/paragraph-based approach to sentence-based chunking because it prevents chunks from ending mid-sentence and works consistently across both blog sections and short Reddit comments.
+
+Blogs are split by `##` headings first, then each section is chunked into 4-sentence pieces. Forum comments are treated as flat text; sub-comments under 75 words are merged into their parent comment before chunking. The 700-word hard cap from the original plan is kept as a warning threshold in the pipeline but is no longer used as the primary split point.
+
+sentences
+   |
+   v
+group into windows of 4 sentences
+   |
+   v
+slide forward by 3 (step = sentences_per_chunk - overlap)
+   |
+   v
+emit each window as one chunk
+
 **Overlap:**
-Overlap 50-100 words for long sections. 
+1 sentence overlap between consecutive chunks (e.g., chunk 1 = sentences 1–4, chunk 2 = sentences 4–7).
 **Reasoning:**
-Forums will have shorter form advice typically, with information related to parent post/comment, where Blogs will tend to be longer form but more structured in terms of headings and content. 
+Sentence-based chunking keeps each chunk semantically complete and avoids the uneven chunk sizes that paragraph splitting produced on short Reddit comments. One-sentence overlap preserves continuity without making chunks redundant.
+**Final chunk count:** 338
 
 ---
 
@@ -112,22 +127,23 @@ I would weigh context, recency of advice (especially for a web crawler because c
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
     [Document Ingestion]
-MIT Admissions Blogs
-Reddit Forums
+Local .txt files
+  documents/blogs/*.txt   (MIT Admissions Blog posts)
+  documents/forums/*.txt  (Reddit r/mit threads)
         |
         v
 [Preprocessing]
-Forums -> split by comments
-Blogs  -> split by headings
+Blogs  -> parse TITLE/SOURCE header, split on ## headings into sections
+Forums -> parse TITLE/SOURCE header, split on POST:/COMMENT:/REPLY: markers
+          sub-comments < 75 words merged into parent comment
         |
         v
 [Chunking]
-Target: 100–500 words
-Overlap: 50–100 words
-Blogs: 250–500 words
-Forums: 100–500 words
-Max: 700 words
-Split by paragraph
+4 sentences per chunk
+1 sentence overlap
+Blogs: chunked per section
+Forums: chunked per comment (merged with short replies)
+Hard cap warning: 700 words
         |
         v
 [Embedding + Vector Store]
@@ -167,9 +183,7 @@ llama-3.3-70b-versatile
 
 
 **Milestone 3 — Ingestion and chunking:**
-for ingestion and chunking ill give claude my chunking strategy section and as it to implement chunk_text() with my
-chunk size and overlap specified. for ingestion i'll use a web scraping function to extract the text from specified web pages.
-then i will clean and format the text so that I can use it for my chunking strategy
+I gave Claude my Chunking Strategy section and asked it to implement `chunk_text()` with 4-sentence chunks and 1-sentence overlap. I manually collected source text into structured `.txt` files under `documents/blogs/` and `documents/forums/` using a defined header format (TITLE:, SOURCE:, then ## headings for blogs and POST:/COMMENT:/REPLY: markers for forums). `ingest.py` parses these files, chunks them, and writes all chunks to `documents/chunks.json`. The pipeline produced 338 total chunks.
 
 **Milestone 4 — Embedding and retrieval:**
 I will convert each cleaned text chunk into an embedding using a sentence-transformer model and store the embeddings, chunk text, and metadata in ChromaDB. When a user asks a question, the system will embed the question and retrieve the most relevant chunks using semantic similarity search.

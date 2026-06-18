@@ -1,0 +1,70 @@
+TITLE: Pursuing CS as a (near) beginner
+SOURCE: https://mitadmissions.org/blogs/entry/pursuing-cs-as-a-near-beginner/
+
+## Introduction
+
+I want to major in computer science. I have plenty of experience in other fields like biomedical engineering and robotics because I was also interested in those things. At one point, I realized that I’d much rather prefer working with software over organic material or hardware, but by that time I had already finished high school. CS can be hard for beginners, more so at MIT, so I’m at an area where I feel like a lot of my STEM background amounted to nothing, since it holds little relevance to my prospective major.
+
+## Computer Science, the Prequel
+
+I’ve wanted to go into computer science since seventh grade, after I watched one episode of Mr. Robot. Neuroscience and psychology were also up there in my interests but I didn’t want to work with organic beings, alive or dead, so I opted for an interest in artificial intelligence instead. I went to a coding camp over the summer that I really liked, where I made this rudimentary text-based adventure game and also played a ton of Team Fortress 2.
+
+As much as I hate talking like this is absolute, there was just something about coding that clicked with me. I don’t know how to describe it, other than that you can put it in a Venn Diagram with my other favorite activities — drawing and playing Minecraft — and label the overlap in the center: “activities where you create things.” I don’t know. There’s just something about it.
+
+## This Is How I Got Interested in Biomedical Engineering Instead and Went Down That Path for Around 5 Years
+
+Meanwhile, I was exploring a different field, which was biomedical engineering. I don’t know how this happened, but I think it started from Science Olympiad tryouts in seventh grade.
+
+The teachers had us take these tests to see who they should put on the team, and one of the tests was themed Anatomy & Physiology. There was this guy I had a crush on who was also trying out, so obviously I had to master everything I could in Anatomy & Physiology. I ended up liking it and specialized in the Anatomy & Physiology event from seventh to eleventh grade before I finally “retired” from it in my senior year of high school.
+
+Additionally, the high school I went to had proportionately much more resources for biology and chemistry among the sciences. I have multiple speculations why it’s like this:
+
+Alabama is an agricultural state. I knew a good number of people who wanted to go into agricultural sciences or veterinary practices, both of which are relevant to biology and chemistry.
+
+The University of Alabama at Birmingham is a popular choice that people from my school go to for pursuing pre-med.
+
+It’s difficult to find a physics teacher or a CS teacher within the public school system I was in.
+
+AP Computer Science was offered as an elective. Every class except freshmen submitted a ranked list of electives to submit into a lottery system, where an algorithm would pick one of the choices for their schedule. It refused to give me AP Computer Science for all three years.
+
+I didn’t care that much. I liked to study biology and I could somewhat tolerate chemistry, so I drifted from my initial interest in artificial intelligence and computer science into biomedical engineering. I spent my summers getting involved in programs geared towards students who were interested in pre-med, bio, biochem, or BME.
+
+And I enjoyed these programs. There were two in particular.
+
+I participated in the Summer Science Institute at the University of Alabama in Birmingham twice. It was geared towards preparing students for pursuing a research project on their own by teaching the fundamentals of molecular biology and neurobiology over the course of multiple summers. Found out that I was really good at dissecting sheep brains and suturing up pig’s feet for some reason.
+
+Even though it was run online because of COVID, the Summer Science Program was still a valuable experience. When I was doing it, there was the biochemistry program and the astrophysics program. I did the former. It held up really well despite the online platform, and I met a lot of my friends here at MIT through SSP. The community’s amazing, and I got to learn how to write a scientific research paper, something that I wasn’t exposed to in high school.
+
+Despite the positive experiences, I came to the difficult conclusion that I couldn’t see myself going down the BME path in the future. As much as I like learning the content, I don’t think I’ll fit into the field, mainly for the reason that I stated earlier in this post: I’d much rather work with artificial things than organic things.
+
+## This Is How I Got Interested in Mechanical Engineering and Electrical Engineering
+
+I was also on my high school’s robotics team for all four years. There was also a time that I thought maybe I wanted to try out something with hardware, whether it was mechanical engineering or electrical engineering. Although the robotics team was one of the best things I did in high school, I couldn’t see myself pursuing mechanical engineering in the future. I was able to participate in electrical engineering research at a nearby university, albeit virtually because of COVID, and the outcome was the same. I loved doing the research, but I couldn’t see myself pursuing electrical engineering in the future either.
+
+## Computer Science, My Old Friend. I Haven’t Seen You in Ages
+
+I’m back to my original interest which sparked my decision to pursue STEM in the first place: CS. By this time, high school was pretty much over, so I didn’t know where to start with formally learning CS. When I got accepted to MIT, I thought, “Okay, cool! I’ll just learn CS there.” College is that place where you start learning about the things you’ve always wanted to learn.
+
+Except that when I took 6.0001 in the fall semester, there were so many people in my vicinity who already had extensive experience in programming. Not just that, but they had medaled in whole coding olympiads or had made software that work on their own. The people who had a good amount of experience in programming say that 6.0001 wasn’t bad, the people who had slightly less experience say that it’s a hard but doable class. I struggled and barely passed the class by one point. A rocky start for someone who wants to be a CS major.
+
+I’m taking 6.009 this semester. It’s hard to describe my thoughts on it because it’s driving me nuts but not necessarily in a bad way. It drives me nuts in that everybody I seem to meet says something along the lines of, “oof yeah this lab was pretty difficult but it’s definitely doable” while everything I’ve tried can’t even get me past the first step in a lab.
+
+But it also drives me nuts in that I’m getting obsessed with Python. I have these urges where I want to code more because it puts me in the zone in the same way that drawing or playing Minecraft puts me in the zone, but all of that initial excitement disappears after I stare at the lab for eight hours at a time without making any progress.
+
+If I’m at my limit, I’ll say in indignation, “I hate this class. I can’t deal with this class.” That’s a huge lie. I love the class so much and its content is everything I’ve always wanted to learn about. I hate that I’m not good enough to make the most out of it. If I really hated 6.009 then I wouldn’t care this much about getting better. I rarely get this passionate and emotional over classes in general.
+
+So there’s this mess of conflicting emotions that I’m stuck between. Programming makes me happy and it’s something I can finally see myself doing for years down the line, but I can’t even go past the basic steps in the class. People commend perseverance in the process of learning, but five days isn’t enough to get me over the first part of the current lab. Getting help is one of the best policies in a course, but I’m too inexperienced to even understand the TAs or my classmates.
+
+When I went up to my recitation leader to ask him how to become a better programmer, he called the latter situation a product of the “curse of knowledge”:
+
+The curse of knowledge is a cognitive bias that occurs when an individual, who is communicating with other individuals, assumes they have the background knowledge to understand.
+
+He told me to practice Python in my free time, which I’ve started to do through CodingBat and also looking up basic Python projects for beginners. I programmed a simple game of Rock, Paper, Scissors this past Friday. But my unfinished lab remains the same.
+
+The best way I can compare my feelings about 6.009 is like Captain Ahab being obsessed over hunting down Moby Dick and everyone else thinking that he’s gone insane. But he dies in the end to the titular whale, so I think that comparison sucks. So I replaced him with Elle Woods from Legally Blonde instead, who also pursued the seemingly insurmountable obstacle between her background, a sorority girl who hasn’t done anything related to law, and her goals, getting into Harvard Law School. Except Elle Woods actually survives her story. She could’ve also killed Moby Dick without herself dying if she was given the chance.
+
+Why didn’t I just stick with programming from the beginning? is what’s been bothering me for the past couple of weeks. If I kept programming from seventh grade, I’d probably have a much easier time than I’m having now. It’s just as valuable to discover that some things aren’t right for you, but the time it took to make those discoveries replaced the time I could’ve had to gain experience in programming. It’s a pain, but I can’t change the past.
+
+I’m going to meet my professor this upcoming Monday to chat with him about what I can do to get the most I can out of 6.009. Besides, I’ve had experiences in high school where there was a class that I really wanted to do well in, but even external help wasn’t helpful enough, so I went to the teacher and got the insight I needed to do well in the class. I don’t get this obsessed over classes I don’t care as much about. Maybe this struggle is a good sign of things to come.
+
+There’s also plenty of examples of MIT students who graduated with a major in CS without having any programming experience before coming to MIT. According to what I’ve heard, the learning curve is steep, but it isn’t a barrier.

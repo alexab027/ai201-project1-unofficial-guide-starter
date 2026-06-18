@@ -1,0 +1,66 @@
+TITLE: Every class I’ve taken at MIT
+SOURCE: https://mitadmissions.org/blogs/entry/every-class-ive-taken-at-mit/
+
+## Introduction
+
+I’m doing exactly what the title says: ranking every class I’ve ever taken at MIT! Feel free to scroll through and take a look at my class tier list, some stats, and my four-year roadmap of classes :)
+
+## Classes Tier List
+
+Disclaimer: I am well aware that I have some hot takes here. Some classes that people generally dislike are ranked highly here because I have fond memories and learned a lot from them. Some classes that others liked are at the very bottom. It really depends on the person, but to have some semblance of structure, I loosely based my ranking off of these definitions:
+
+S: best class ever
+
+A: would take again and again
+
+B: enjoyed
+
+C: meh, that was a class
+
+D: disliked
+
+F: should be deleted from course catalog
+
+I’ll explain the reasoning for these rankings below in my four-year class roadmap! Also, I clearly couldn’t bear to put anything in the F tier lol. That’s mean.
+
+## My Four-Year Class Roadmap
+
+## Freshman Fall
+
+Calculus I/II Accelerated (18.01A/18.02A) → Rank B
+
+This class was an accelerated version of Calc 1 and 2, cramming the classes into a semester + IAP. Things I remember really well: staying up until 3 am finishing a PSET with 15 other kids stuffed in a New Vassar study room, being on campus during my first snowy Boston IAP, sitting in the back three rows of 26-100 with the soccer girls and the football team. Things I don’t remember as much: calculus.
+
+Physics I (8.01) → Rank B
+
+A General Institute Requirement (GIR). Made the mistake of taking this class at 9 am. Often fell asleep during virtual Friday Problem Solving.
+
+Principles of Chemical Science (5.111) → Rank D
+
+Another GIR. I’m just not the biggest fan of chemistry.
+
+Becoming Human: Ancient Perspectives on the Good Life (CC.110) → Rank C
+
+This was a philosophy class in the freshman year learning community Concourse, which is a community for students with an interest in the blend of STEM and humanities.
+
+Comments on this semester: Freshman fall was Pass No Record—I was playing college sports for the first time, had just joined my sorority, and was getting to know Bawston.
+
+## Freshman Spring
+
+Introduction to CS and Programming using Python (6.100L) → Rank A
+
+This is the extended, full-semester version of the intro Python coding class that usually takes half a semester. I had never coded before, but being surrounded by code wizard classmates inspired me, and this ended up being the singular most useful class I ever took at MIT!
+
+Introduction to Psychology (9.00) → Rank C
+
+At this time, I was pretty sure I’d be a Course 9. However, this class was virtual that semester, so I ended up pretty unengaged with 9.00.
+
+Physics II (8.02) → Rank D
+
+I took the Concourse version of this class, and I found it so hard for some reason?!? I like physics, but found it pretty tough to wrap my head around electricity and magnetism the way it was explained in this class.
+
+Spanish IV (21G.704) → Rank B
+
+You may think technical classes at MIT are tough, but just wait until you take a language class. You meet four days a week, and there’s homework every day. But that means you learn a lot! I love languages, and I tested into Spanish 4 because of my AP scores in high school. It was also a MISTI requirement, because I would be going to Spain that summer!
+
+Comments on this semester: I declared Brain and Cognitive Science (Course 9) as my major at the end of this semester, then went to Madrid to do computational neuroscience research about emotions! I abruptly switched my major that summer because I didn’t enjoy my research very much. Here is a blog about that whole thought process. I was having the very scary thought that “what if I come to MIT and never create anything?” So, I declared Course 2.

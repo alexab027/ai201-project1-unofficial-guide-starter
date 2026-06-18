@@ -1,0 +1,148 @@
+TITLE: How I chose my classes
+SOURCE: https://mitadmissions.org/blogs/entry/how-i-chose-my-classes/
+
+## Introduction
+
+Earlier this week, I finished my last exam as an MIT undergrad. It was a bittersweet moment; I was elated that I’d made it through not just 6.7800 (Inference and Information, the subject of the exam and by far the most challenging class I’ve ever taken) but four years of MIT’s often brutal and unforgiving academic gauntlet, yet also sad that I was leaving this gauntlet behind, no longer taking classes next year. Maybe this is just my MIT-induced masochism/Stockholm syndrome speaking, but I found most of my classes fun, rewarding, and memorable in a good way. It’s one of the reasons why I’ve written so many blog posts about my class projects here.
+
+A major contributor to my enjoyment was Course 6’s vast catalog of over 200 classes spanning everything under the sun, from music technology to open-heart surgery. The freedom to choose between so many classes enabled me to learn and apply interesting ideas across all of EECS and kept each semester fresh and exciting.
+
+However, the ocean of choices was also quite overwhelming initially, and it took me a while to figure out exactly what I should look out for when choosing classes, especially electives. This post is about some of the things I think about that helped me navigate this ocean.
+
+I intended this post to be more of a reflection than a guide because there’s no definitive guide to choosing classes. Everyone has a different goal for their MIT career: someone aiming to graduate early may try to maximize the number of classes they take that satisfy multiple graduation requirements; someone aiming to become the best statistician in the world may try to take every statistics class Course 6 and Course 18 offers; someone aiming to impress their peers may try to take notoriously challenging classes like 6.7800 in their freshman/sophomore years. All these approaches are perfectly valid. Still, I’d be more than happy if this post helps inform how you choose classes at MIT or beyond.
+
+There are three big questions that I ask myself about any class that I’m considering taking. In order, they are:
+
+Will I thrive in this class if I took it this semester?
+
+Will the class be fun and engaging?
+
+What value would I get from taking this class?
+
+## Will I Thrive in the Class?
+
+As much as I would love to be one of those MIT students who can handle 7+ classes per semester while still leaving time for eating, sleeping, and socializing, my schedule can only realistically accommodate 4-5 classes. To filter the catalog down to classes I could realistically take, I think about several practical considerations, such as:
+
+Does it fit into my schedule?
+
+Will it help me graduate?
+
+Am I prepared for the workload?
+
+How often is it typically offered?
+
+Plus a few others that past bloggers like CJ have discussed.
+
+## Does It Fit Into My Schedule?
+
+Barring one or two exceptions, if a class doesn’t fit into my schedule, meaning if its lectures overlap with anything else, then I will not take it. I think attending lectures, and office hours whenever possible, is crucial for making the most of my MIT education because otherwise, I may as well teach myself the content outside of MIT. Some classes also have exams scheduled during lecture times, so having no conflicting lectures minimizes headaches in that regard too.
+
+Most lab-based classes also require me to be in the lab physically for several hours at a time. If I don’t have a large, contiguous chunk of free time in my schedule, then I try to avoid these kinds of classes too.
+
+## Will It Help Me Graduate?
+
+My top priority at MIT was to graduate. As such, I aimed to fulfill most of my graduation requirements before my senior year so that I’d be free to take fun elective classes without worrying about outstanding requirements getting in the way. Graduation requirements, particularly introductory requirements, are also good for helping me prepare for those electives.
+
+I like to think of these graduation requirements as parts of a meal: introductory requirements are like vegetables, not particularly exciting but good for me; upper-level requirements are like meat, more exciting and varied; and electives are like dessert, fun, often the most memorable, but not required at all. I ate all my vegetables first because they provided me with vitamins and minerals, meaning technical skills and mathematical maturity, before moving on to the meat with small bites of desserts snuck in between.
+
+Because dessert was so enticing, I also gravitated toward classes satisfying multiple requirements whenever it made sense. For example, 6.3020 (Fundamentals of Music Processing) satisfies two requirements as an advanced undergrad subject and a music class, while 6.2050 (Digital Systems Laboratory) satisfies four requirements because it is an advanced undergrad subject, has a project-based lab component, focuses on technical writing, and is open-ended and worth more than 40% of the final grade. It just so happens that this property is most common in lab/project-based classes, which I was most interested in taking anyway.
+
+## Am I Prepared for the Workload?
+
+It’s always tempting for me to answer yes to this question because I think I could handle any single class in the Course 6 catalog. However, that answer would be misleading because it’s only really true in isolation. Things get much more complicated when there are commitments like clubs and other classes also vying for my attention.
+
+I’d typically try to pick a set of classes that add up to around 50 hours per week based on my estimate of their workloads. To estimate the hourly workload of a class, I’d look at the average number of hours per week reported by past students and then adjust up or down by a few hours based on how many of its prerequisite classes I’d taken. For example, past students in 6.S987 (Physics and Engineering of Superconducting Qubits) spent around 11 hours per week on it, while I spent closer to 13 hours because I didn’t have the quantum physics prerequisites.
+
+Additionally, I’d try to have a balance between classes with final exams and those with final projects. Although projects sound more fun and rewarding than exams, and indeed they often are, I’ve learned the hard way that having four simultaneous final projects is often much less fun than having four final exams.
+
+## How Often Is the Class Typically Offered?
+
+Not every class is offered every year. Some classic examples in Course 6 are:
+
+Erik Demaine’s trio of 6.5310 (Geometric Folding Algorithms), 6.5230 (Advanced Data Structures), and 6.5440 (Algorithmic Lower Bounds), which are offered in a three-year cycle.
+
+Dave Perreault’s 6.S892 (Advanced Topics in Power Electronics), which is offered once every four years.
+
+## Will the Class Be Fun and Engaging?
+
+After filtering the catalog down to classes I could take, I’d further filter it down to classes I might want to take. This step is usually fairly straightforward. My interests are broad but well-defined. For example, I know that I’m not interested in power electronics, theoretical computer science, or biomedical applications of EECS, and the syllabi/course evaluations tell me most of what I need to know.
+
+Some things I’d think about here are:
+
+Are any of my friends taking it? It’s more fun to take classes with friends.
+
+How big is the average class size? Medium/small-ish classes with 40 people or fewer tend to be the most enjoyable because I can get more individual attention from the instructors.
+
+What did past students think of it? Asking a past student in person is ideal, but the course evaluations also have a numerical rating out of 7 that I use as a quick benchmark.
+
+Do the instructors care about teaching? Being a leader in their field or having a Nobel prize doesn’t automatically translate to being good at teaching, unfortunately.
+
+What’s in the syllabus? If there’s visibly little care put into the syllabus, there will probably also be little care put into lectures.
+
+How long has it been around? Newer classes are fun because they teach more cutting-edge content, but older classes typically have better organization.
+
+## What Value Would I Get From Taking the Class?
+
+Finally, I’d filter the catalog down to classes I should take. The two main things I’d think about each class at this point are:
+
+Could I recreate the experience outside of MIT?
+
+How useful is it?
+
+## Could I Recreate the Experience Outside of MIT?
+
+One of the main reasons why I chose to attend MIT was because of all the educational resources here that I wouldn’t be able to experience elsewhere, such as:
+
+Specialized lab equipment worth hundreds of thousands of dollars like the machines in the MIT.nano cleanroom and the “Quantenkoffer” quantum optics toolkit, which I had the opportunity to operate as part of 6.2600 (Micro/Nano Processing Technology) and 6.2410 (Quantum Systems Engineering Lab).
+
+Brilliant people like Will Oliver, Karl Berggren, and Joe Steinmeyer, who know and can explain their respective fields better than anyone else on the planet, and certainly better than a textbook.
+
+Detailed and personalized feedback on assignments, writing, etc., which I wouldn’t get from self-study alone.
+
+Given how much MIT tuition costs, I aimed to take full advantage of these resources by prioritizing taking classes that teach things I wouldn’t be able to learn or experience outside of MIT. Hardware-based electrical engineering classes like 6.2600 and 6.2410 immediately come to mind in this category, as do classes with unique structures and topics like 6.5310 (Geometric Folding Algorithms), which involves working with Erik Demaine on open problems in computational origami design.
+
+This is also one of the reasons why I didn’t take many computer science classes like 6.1810 (Operating Systems Engineering). All the lecture notes, assignments, etc. for those classes are available online, and their structures prevent me from receiving meaningful feedback on my work. After all, if I could learn the content at home, why should I come to MIT for it? To be clear, I’m not saying these are bad classes. I just think they don’t give me as much value as I could get elsewhere at MIT.
+
+## How Useful Is It?
+
+“Usefulness” is a somewhat nebulous concept. Sure, a class is certainly useful if it helps me pass a job interview or teaches me how to use a specific tool in my research, but its usefulness can extend far beyond these “hard” skills.
+
+For example, 6.2060 (Microcomputer Project Laboratory) is a class that, at first glance, doesn’t seem very useful at all. The lab assignments all involve programming an obsolete Intel 8051 microprocessor to perform seemingly mundane tasks like striking a fluorescent lamp. I’ll probably never be asked to program an Intel 8051 again in my career, but I’d still argue that 6.2060 was one of the most useful classes I’ve taken at MIT because it taught me so many “soft” skills that are pervasive in all of engineering, including:
+
+How to document and communicate my work clearly and concisely.
+
+How to separate complex systems into simpler individual components.
+
+How to design diagnostic tests for complex systems to identify what’s going wrong.
+
+How to manage my time and budget in a large, multi-week project.
+
+How to identify and search for the information you need, without the help of AI.
+
+Quoting the syllabus: “Chips come and go, but successful approaches for engineering design have a life that spans many iterations of a particular technology.”
+
+The most useful classes I’ve taken taught a combination of hard and soft skills. 6.7800 (Inference and Information) is the one that immediately comes to mind, perhaps because it’s still fresh on my mind. Not only did it teach many useful probability/statistics/information theory techniques, which are directly applicable to my job after graduation, but it also greatly improved my intuition for thinking about complex modeling problems.
+
+## Appendix: A Short Guide to Deciphering Course 6 Subject Numbers
+
+Back in ye olden days, three years ago, Course 6 subject numbers were a mess. Unlike other departments like Course 2, which has a sensible 2.001 → 2.002 → … → 2.009 numbering system for the core undergrad sequence, Course 6 seemed to have wacky uncorrelated numbers that you just had to memorize. For example, the sequence of classes about algorithms had the following structure:
+
+Why is 6.006 numbered lower than 6.042, its prerequisite class? Why is the numbering for the grad-level classes, the ones after 6.046, completely different from the undergrad-level classes? What do any of the numbers even mean?
+
+So when Course 6 introduced the new 6-4 major, AI and Decision Making, in 2022, they also introduced a new numbering system to fix this mess, resulting in over 200 classes being renumbered. Although this change was quite controversial amongst the upperclassmen, many of us still prefer to use the old numbers, I think it was ultimately a step in the right direction, given how much Course 6 has ballooned in size and scope over the past two decades.
+
+The department has a great page that explains the new numbering system, but the TL;DR is:
+
+Subject numbers now have 4 digits: 6.xxxx.
+
+The first digit encodes the class’s level: 1-4 for undergrad, 5-8 for grad, and broad subject area: {1, 5} for algorithms/software systems, {2, 6} for circuits/applied physics, {3, 7} for signals/statistics/machine learning, and {4, 8} for AI/robotics/biomedical.
+
+The second digit encodes the class’s subarea, for example, 6.12xx for algorithms.
+
+The third digit separates classes in the subarea, typically counting up from 0 and with intro-level classes numbered lower.
+
+The fourth digit is mostly vestigial; it’s 0 for most classes but is occasionally used to specify the version of a class with a joint undergrad/grad offering.
+
+For example, 6.2410 is Quantum Systems Engineering Lab.
+
+Knowing how the new numbering system works is useful because it provides an easy way to find new classes related to ones you’ve previously taken and enjoyed. For example, if you enjoyed 6.3000 (Signal Processing), there’s a good chance you’d also enjoy 6.3010 (Signals, Systems, and Inference) or 6.3020 (Fundamentals of Music Processing).
