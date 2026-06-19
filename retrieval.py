@@ -150,16 +150,16 @@ def print_results(query: str, results: list[dict]):
 
 
 if __name__ == "__main__":
-    build_vector_store(reset=True)
+    build_vector_store(reset=False)
 
     test_queries = [
-        "How do I choose between 6-3 and 6-4?",
-        "Should I take 6.1210 and 6.1010 at the same time?",
-        "I am struggling to feel like I fit in as a course 6.",
-        "How do course sixes find balance?",
-        "I don't know what courses to take next semester after 6.100A and 6.1200.",
+        "Is 6-3 a hard major?",
+        "What are the most interesting and useful course 6 classes?",
+        "Do MIT CS students think programming experience is enough?",
+        "How do course sixes not get stressed or overwhelmed at MIT?",
+        "Should I take 6.1200 before 6.1210?",
     ]
 
     for query in test_queries:
-        results = retrieve(query, k=8)
+        results = retrieve(query, k=4)
         print_results(query, results)
